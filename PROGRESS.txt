@@ -1,0 +1,37 @@
+....
+COMPLETED
+------------------------------------------------------
+WORK ON PROJECT:
+Image - completed
+Vector version - completed
+Animated - completed
+Soundtrack - completed
+Video edit and release - completed
+Comics - completed
+
+WAYS of MESSAGE Destribution
+POSTING:
+Thread on own FORUM -completed
+post on Deviantart - completed
+post on Youtube - completed
+created Github repository
+
+
+---------------------------------------------
+TODO ---
+
+WORK ON PROJECT:
+HaxeFlixel game.
+3D model of Wolverine
+Unity game.
+
+SOURCE SHARE:
+Write small readme for every project file and source.(at least to point out what's in it)
+
+
+WAYS of MESSAGE Destribution
+POSTING:
+Post comics pages
+Upload project files for each technic(discover is it limited to post up to 1gb on Github)
+Post on other social medias.
+
