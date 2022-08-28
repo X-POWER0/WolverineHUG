@@ -14,7 +14,7 @@ and employment for skill set and interests
 (and like always in some way It's a test, trial, prove for self pushing to slight extremes and check of everything around.)
 
 Mainpage
-https://x-p.boards.net/thread/108/wolverine-hug
+https://bit.ly/3PWbGkc
 
 <img src="https://res.cloudinary.com/dcsjcckfc/image/upload/v1661610974/forum/POSTHUG_rdcro8.jpg" style="width:70%;">
 
