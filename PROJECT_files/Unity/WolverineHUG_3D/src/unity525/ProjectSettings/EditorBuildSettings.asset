@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/MENU.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Menu2.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/more.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/GameStory.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/How.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Start.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Start2.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/more2.unity
+  - enabled: 0
+    path: Assets/WolvHUG/SCENE/Menu3_.unity
+  - enabled: 0
+    path: Assets/WolvHUG/SCENE/WolvHUG.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/End.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/HowDone.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/2Dgm.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/2Dgm2.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/3Dgm.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/3Dgm2.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Comics.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Comics2.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/img.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/img2.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/PjCmpl.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Soft.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Soft2.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Vid.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Vid2.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/x-p.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Contact.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Support.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/PjinDv.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/mainWolvHinfo.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/2Dgm3.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/3Dgm3.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Comics3.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/HowDone1.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/img3.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Soft3.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Vid3.unity
+  - enabled: 0
+    path: Assets/WolvHUG/SCENE/mainWolvHinfo.unity
+  - enabled: 0
+    path: Assets/WolvHUG/SCENE/GamePlay1.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/Menu3.unity
+  - enabled: 1
+    path: Assets/WolvHUG/SCENE/GamePlay.unity

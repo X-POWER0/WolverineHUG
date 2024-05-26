@@ -1,0 +1,436 @@
+WolverineHUG_unity_devlog.txt
+
+**KNOWN_BUGS
+- read write file save error delet restart
+or edit
+
+
+**WORKING_ON
+-Cut mus in half
+-Check not used sounds and delet
+
+- disable view of mouse after time 
+reanable on mouse move 
+and lock disable when no move
+- disable in Gameplay
+
+-fix  while count+1
+and disable inp name in statr
+
+!!!WHY folders SAVE_DATA/SCORE not created by io
+- set code for writing score on IF inside called methods
+with fall back to PlPref
+
+writes to same
+highscore index ---
+
+- DON'T FORGET add folders to build
+SAVE_DATA/SCORE
+
+
+- check why buttons don't work
+(joy works) Problem was from creating list of keycodes
+and use of Unity.event in update to grab buttons 
+all this was not used and not worked cause it all need 
+be On GUI and invoke gui for that
+in Editor all worked fine(just did nothing)
+but in BUILD stole keys and don't gave them to other scripts
+
+- then go through scens and check what method called for
+XMLmanager and incorporate there PlPref
+
+
+-- add if in checking Hug button 
+ and check PlPref Linux
+
+
+
+
+- Check first write to SAVE_DATA
+(seems it doesn't exist, if savedata==null then creat and write)
+- edit add name to pref
+and fix if no save
+- then check in mod switch
+
+
+- Check Does work in Pref Write To Same Index
+- Check Works Save and increas number;
+check do need add global CountScoreData for that 
+- Check do Highscore Check Mode 
+and check if it would aply to PlPref List
+
+
+
+- add to start JoyInput
+- add Control panel everywhere
+- add exitkey script to other menu scens
+
+
+- fix more menus
+- fin with menu
+- add controlpanel script and assighn virtual buttons to it
+
+
+- BUG
+- in Menu Pause, HugTargets continue calculate pass
+and tryes to move 
+-- in Menu Pause, CanvasType, on joy press hold axis, 
+no stop of change select button index o
+when joy scrolls through menu
+- In pause Menu, Jump button, after unpause
+Wolv jumps.
+- In pause Menu, buttons affect gameplay,
+Disable Camera, Crouch, Walk, Move Camera,
+Run, Hug
+
+-- hug sound by Hug button when in exit menu
+Jump, Hug
+
+
+
+
+- check unity player edit of buttons ABILITY CHANGE HUG BUTTON
+- test build (check keys work)
+- camera and exit button not Func on Build
+
+- add standart assets ON screen virtual buttons
+
+- bug xml writes rubbish(after change mode and go back again)
+- check fix save score to file
+-- add save to tempory unity assets etc
+- set conditions to work even when can't load write data 
+check that game works TIMER without EVEN writing file
+and add save to Unity Saves for browser BUILD___JUST NOT TO FAIL
+
+
+
+
+- build
+- readme 
+- Debug Video Preview
+- post github, itch
+
+- set hug button and basic time for speed mode in txt file
+- readme for WolvHUG short on top and more lower on page
+
+and play
+and NOTHING more nothing
+
+!!MIGHT
+- add watch around by Right joy axis
+-clear dead targets
+-- joyInputType, try unity Select 
+or disable it after every click 
+-After 3 kills change box target follow
+- make for top view on top map of location of boxes and 
+in radius nearest targets
+
+
+-later refactor and godot remake(mob, browser)
+
+- faster hufg
+
+
+-WolvHUG
+add pause of timer on menu click and might game pause menu on P button
+add visible raycast
+and might add on start move camera to topdown
+
+
+
+**DONE
+
+- catch Hug button in How from Unity Player
+-- add if in checking Hug button 
+and check in user regestry for key
+
+- add on axis gamepad change of menu and submit, exit buttons
+
+- On EXit No pause Game First Time
+- add joy support
+
+- add string representing Hug button To How menu
+if can't get Show Hug;
+- add same if logic on other key trigers
+- add two camera moves same logic
+- add to pause menu trigers and camera keys
+- add this logic to sounds from buttons
+- test with joystic
+
+-- after add control panel selectin messed up
+
+
+- add joystic buttons to
+-- hug animation
+-- control of camera rottation
+-- Exit To menu
+-- Change camera key
+
+- JoyInput Type Name By showing keyboard and select from it
+-- After Type Change CaretIndex
+-- Add Global CaretIndex
+-- change color of selected input to be visible String
+
+- if joy Button Press then change input field Acept Button 
+
+- unity WolvHUG bug with buttons increas decreas select
+selects on first and last
+- unity WolvHUG set every scen lists of buttons for ExitMenuPhases
+set ExitMenu buttons set SubmitButons (add to submit back buttons of side menus)
+- unity WolvHUG add to buttons change of ExitMenuPhases number
+and SelectedButton Number and SubmitNumberPhase
+
+button to switch mode
+- add buton toogle and change text of mode
+-- on mode select changes text
+-- change switch button
+-- change Continue on Restart button
+-- on mode choose Change button to Continue or Restart 
+
+-ability to rotate fps vie with buttons
+-make longer time
+
+- on after mode select scen restart 
+-- scen and add new player score writing
+-- add what mode is info
+-- add write time of gameplay
+-- on load get selected mode from xml
+-- on load set appropriate mode button,text 
+--- and switch script to show Continue or Restart button
+-- on load set Timer mode
+
+- add to xml specefication in what mode is player
+- get last mode from xml on start of scen with gemplay
+- add time of gameplay to xml
+- write time of this game set to xml in FUN mode
+- on fun mode change timer to increas clock Number
+- Time bar line set to go shorter for some amount of time
+and increas back on some amount by hug kill to full bar
+
+check difference in prefab and edited camera rreal time
+replace material fully
+change material by players speed plus cooldown time
+be make longer time Add in menu 
+Button SPEED FUN to switch on of timer
+add time of set GAME to score
+
+
+Wolv when run Transperent
+Make shader Cartooniesh on top
+escape add 
+and hide main partickle in scen
+check save creat xml
+and rename after first play
+turn vcam on arrows
+
+- Bugs dont count separetly highscore for modes
+- fail to change on click mode button in exit list
+- not geting last mode Especialy from SCoreBoard
+might - 1 index problem
+
+-thp to my cam ver or replace freelook to my
+-add to on topcam enable change needed to move cam with left-right
+-set material change
+- add material change to camera apearens 
+- edit fps camera
+- add button play on time or simple
+
+- on escape,x,m,p freez game in gameplay
+
+- might change camera view: thp,top,fps(with transparent wolv),
+
+fix same as submit button code for exit
+-text "we both know" panel clicked throuh by enter
+need disable set upfalse
+-try select button then show panel and select of invisible
+- not working click with submit in GameStr and Exit
+click btn ads to Exit phase
+-end adding and replacing next and prev buttons in list in
+how to play
+- in more after escape contact gets selected and in first start
+- after cursor click on exit press key on NO work on second press
+or after click anywhere or select buttons use
+- after one circl of selection hightlites exit and every-developer-should-visit-right-now/
+button choose EXIT
+- add select of invisible button in code of selection buttons
+
+
+**INFO
+add Arrows to input of camera turns
+
+add all audioclips to gamemanager
+and then grab by enemies
+
+add audio on jump, run
+
+and audio on button clics
+music audio, settings 
+off switch and loudness
+
+add sound 
+replace cursor
+Check if The same Player Play Did his High score get on to another Index
+
+wolvhug
+add save name
+and all to playerprfs and other and tp xml\add read in highscore from XML
+Save on EndGa,e Scen and load
+add writing date
+-add few times through time splashes of Wolv saying He Need, Want Hugs, wontsurvive without hugs, can't live Without
+-add darknes and heart beating(screen beat. red vinet, might wolv eyes Opacity, sound) on timer low for DRAMA
+-end  tumer freez player and Camera or just Splash of sad Wolv NEED MORE HUGS
+-inscrees time from hugs but speed up timer
+-Check is is data in xml and add not rewrite it
+
+
+
+--Add camera turn on keys 
+--add wolverine hug turn on You camera
+
+
+--Made wider functionalyty For XMLscore writer
+ability to add new score And name
+--need to make Write in next scen to last created player score tag
+---and Then check the highest score and write it o screen
+-- Make more useful XML writer more renameble and ability to use in any case
+-- and rename XML manager used in wolverine hug to right specific name for it.
+
+--make on key move camera by keys switch off control by cameraFreecamerascript or IT's Parts/ For no desrruption in camera controll and shaking
+--if not then make controling of parameters in freecontroll camera or Modify it's Script
+
+--new highscore for every playtime and compare the highest_score
+
+--autocamera turn on left right and change camera follow on click. set camera to face Wolverine at first seconds
+-- hug button replace
+
+--xtimer set on 30
+
+
+--add option to chose saved player from list(without typing it again, and option when you type to pop up preexisting player data with option to load this or creat new(default creat new))
+
+--Add function choice on end of timer
+
+-- ad in game on end of timer new TIMER with freez action and move of camera, Score DISPLAYING and write score in database - Text and after end of !THAT timer nextscen with highscore display.
+
+
+--Make function selection on wich action Function start write and save to database
+
+timeer to GAMEOVER (hufmetter decrease till(short amount of time, so only constantly huging will survive) 
+encreas mettr on hugs
+
+Choose key for HUG input(with replacement of info on How) and touch button and navigation(for phone)
+
+
+right scpre save scorem right into txt fileread from txt
+NOW make save score into new file for every Player
+and get info from All files and get wherre is hires score
+Add check and replace and set time and date for REALLY right Time
+MAKE not replace but add each ENTRY to FILE
+--for future add whole list of games scores Page with all played times
+
+
+color of blood more to cherryyy  - more to Wolverine Hug colors
+
+
+Decreasing HUG BAR ADD. - I NEED TO HUG NeedFLASHH THIS WORDS WHEN HUG METER DEACREASES. HI WILL DIE IF DECRISED SO SPARK THIS TEXT UP AND BLINK AND MAYBE HIS EYES.
+Scale Up and Down Transperent Eyes Sparkling RED
+Basixc Hug with Mouse CLick or controll WHile Running WorkS SHOULD When HUGTARGET  consentraitad with red Light or cursor, Click and He fast Forwards To HUG IT and catch
+Decreesing Time Counter
+
+
+
+add SIGHT on coursor
+
+Top Camera
+Right Click Forward Push CATCH HUG.
+Left Click Chaotic Claws Hiting Movement. That Harms GUYS
+
+--Make Him Hug front even if HUGtarget not on forward straight
+Make wider angel of VEcctor of HUGGING
+
+
+
+Fullpage Button and mod add to story and project textMusic, Sound On Kill IIIiii
+When Hug Hug HugTarget Red and fall and then disapeare respawnon starting point,
+INCREASE SCORE
+and Sound of Hug anim
+Camera from Top
+
+
+
+When You Turget hug Targrget Shader Turns Too Orange.
+Make HUGER TRANSPERENT SOME TIMES and FPS Mod
+While You not Moving You can Go in Stelth Mod start deing TRANSPERENT and Longer Don't Move More transperent.
+--ON start only more transperent than less tranperent Sliding of transparancy
+(Can STAND near Cube and Wait TILL HE CAME)
+Pink Cubes Spark With Lite all Around Them Time OF Time.
+
+
+Set to AI Smooth stop and Run when Object Is reaching outslow walk and calculating speed of object.
+So no almost get THERE LAG
+
+
+
+
+
+make hug crouch animation centered to X -- NOW it's like he hags slightly towards right
+
+
+decrease Life off Hug Target While Holding H, when colliding.
+Freez hiz Position and copy pos WolvHUG with adjustments.
+
+Right down GPS like close far UI Oval that lights and shows direction
+
+and hugging metter
+And To HUG Faster and finaly need To Releas and Hit H again While it in SweetSPOT of HUGING metter
+
+
+Particle splash on Die
+freezgrab on hug. hold, decreez lifehug turget life on screen poopup on release run out
+when dead sperkl text FRIENDLY DEADLY HUG
+on start BIG TEXT "Let' HUG to Death, 
+H button press and HOLDv ekran nazad y v prozorist
+and run after HUGtargets
+
+
+light oh heads
+particles
+three moe guys
+value from script to text file
+
+
+Set Tag Name to HitPlace public and Object Of It's Pos To ==Set Not Collide Firther in script
+
+
+Make Fly Modelto fly from top search for guys and then land or HUg Down Landing. Hug in Flying
+
+Hug In Jump animation
+AI to Guy with a ball.(add color red when Almost Dead)
+and Move after box
+
+Make Wolverine Take Box and Move and Release the BOX. Wich Guy Follows
+
+Fix Kill Damage Hug Target script. 
+First -- without Raycast By only COlider and Button click
+Then Raycast. figure out HOW
+
+make him jump faster after Landing. And fix Unresponsive To Jump afgter not full triger HUgging goes To Grounded
+
+
+
+Cubes To wich HUGTarget Came Spark Lite.
+Where Hug Target sits on Cubes Cube - LIGHT up SPOT Light
+
+
+When Few Hug TArgets Close Light Sparkes
+Wolverine HUG make light Main Fill that makes Light Red Strik on Flolor Move acordingly To camera and Player Always infront or almost
+Dublicate from old scen So CAMERA LIHT AND effects workNOW no Liht and NO my effect of orange glow.
+THen add hug functionality
+
+
+
+
+---Complete wolv HUG with additional from Tutorials versions
+
+
+
