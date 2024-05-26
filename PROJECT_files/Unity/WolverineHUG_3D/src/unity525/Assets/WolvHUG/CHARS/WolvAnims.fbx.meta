@@ -1,0 +1,2627 @@
+fileFormatVersion: 2
+guid: 2dbc230423cdf4d43bdd7c63487055f0
+timeCreated: 1662799653
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: EthanHead
+    100002: EthanHead1
+    100004: EthanHips
+    100006: EthanJaw
+    100008: EthanLeftArm
+    100010: EthanLeftBlink
+    100012: EthanLeftBlink_end
+    100014: EthanLeftBrow
+    100016: EthanLeftBrow_end
+    100018: EthanLeftCorner
+    100020: EthanLeftCorner_end
+    100022: EthanLeftEye
+    100024: EthanLeftEye_end
+    100026: EthanLeftFoot
+    100028: EthanLeftForeArm
+    100030: EthanLeftHand
+    100032: EthanLeftHandIndex1
+    100034: EthanLeftHandIndex2
+    100036: EthanLeftHandIndex3
+    100038: EthanLeftHandIndex4
+    100040: EthanLeftHandIndex4_end
+    100042: EthanLeftHandMiddle1
+    100044: EthanLeftHandMiddle2
+    100046: EthanLeftHandMiddle3
+    100048: EthanLeftHandMiddle4
+    100050: EthanLeftHandMiddle4_end
+    100052: EthanLeftHandPinky1
+    100054: EthanLeftHandPinky2
+    100056: EthanLeftHandPinky3
+    100058: EthanLeftHandPinky4
+    100060: EthanLeftHandPinky4_end
+    100062: EthanLeftHandRing1
+    100064: EthanLeftHandRing2
+    100066: EthanLeftHandRing3
+    100068: EthanLeftHandRing4
+    100070: EthanLeftHandRing4_end
+    100072: EthanLeftHandThumb1
+    100074: EthanLeftHandThumb2
+    100076: EthanLeftHandThumb3
+    100078: EthanLeftHandThumb4
+    100080: EthanLeftHandThumb4_end
+    100082: EthanLeftLeg
+    100084: EthanLeftLowerLip
+    100086: EthanLeftLowerLip_end
+    100088: EthanLeftShoulder
+    100090: EthanLeftToe1
+    100092: EthanLeftToe2
+    100094: EthanLeftToe2_end
+    100096: EthanLeftUpLeg
+    100098: EthanLeftUpperLip
+    100100: EthanLeftUpperLip_end
+    100102: EthanLowerLip
+    100104: EthanLowerLip_end
+    100106: EthanNeck
+    100108: EthanRightArm
+    100110: EthanRightBlink
+    100112: EthanRightBlink_end
+    100114: EthanRightBrow
+    100116: EthanRightBrow_end
+    100118: EthanRightCorner
+    100120: EthanRightCorner_end
+    100122: EthanRightEye
+    100124: EthanRightEye_end
+    100126: EthanRightFoot
+    100128: EthanRightForeArm
+    100130: EthanRightHand
+    100132: EthanRightHandIndex1
+    100134: EthanRightHandIndex2
+    100136: EthanRightHandIndex3
+    100138: EthanRightHandIndex4
+    100140: EthanRightHandIndex4_end
+    100142: EthanRightHandMiddle1
+    100144: EthanRightHandMiddle2
+    100146: EthanRightHandMiddle3
+    100148: EthanRightHandMiddle4
+    100150: EthanRightHandMiddle4_end
+    100152: EthanRightHandPinky1
+    100154: EthanRightHandPinky2
+    100156: EthanRightHandPinky3
+    100158: EthanRightHandPinky4
+    100160: EthanRightHandPinky4_end
+    100162: EthanRightHandRing1
+    100164: EthanRightHandRing2
+    100166: EthanRightHandRing3
+    100168: EthanRightHandRing4
+    100170: EthanRightHandRing4_end
+    100172: EthanRightHandThumb1
+    100174: EthanRightHandThumb2
+    100176: EthanRightHandThumb3
+    100178: EthanRightHandThumb4
+    100180: EthanRightHandThumb4_end
+    100182: EthanRightLeg
+    100184: EthanRightLowerLip
+    100186: EthanRightLowerLip_end
+    100188: EthanRightShoulder
+    100190: EthanRightToe1
+    100192: EthanRightToe2
+    100194: EthanRightToe2_end
+    100196: EthanRightUpLeg
+    100198: EthanRightUpperLip
+    100200: EthanRightUpperLip_end
+    100202: EthanSpine
+    100204: EthanSpine1
+    100206: EthanSpine2
+    100208: EthanUpperLip
+    100210: EthanUpperLip_end
+    100212: WolvEB276b
+    100214: //RootNode
+    100216: WolvEB276b.001
+    400000: EthanHead
+    400002: EthanHead1
+    400004: EthanHips
+    400006: EthanJaw
+    400008: EthanLeftArm
+    400010: EthanLeftBlink
+    400012: EthanLeftBlink_end
+    400014: EthanLeftBrow
+    400016: EthanLeftBrow_end
+    400018: EthanLeftCorner
+    400020: EthanLeftCorner_end
+    400022: EthanLeftEye
+    400024: EthanLeftEye_end
+    400026: EthanLeftFoot
+    400028: EthanLeftForeArm
+    400030: EthanLeftHand
+    400032: EthanLeftHandIndex1
+    400034: EthanLeftHandIndex2
+    400036: EthanLeftHandIndex3
+    400038: EthanLeftHandIndex4
+    400040: EthanLeftHandIndex4_end
+    400042: EthanLeftHandMiddle1
+    400044: EthanLeftHandMiddle2
+    400046: EthanLeftHandMiddle3
+    400048: EthanLeftHandMiddle4
+    400050: EthanLeftHandMiddle4_end
+    400052: EthanLeftHandPinky1
+    400054: EthanLeftHandPinky2
+    400056: EthanLeftHandPinky3
+    400058: EthanLeftHandPinky4
+    400060: EthanLeftHandPinky4_end
+    400062: EthanLeftHandRing1
+    400064: EthanLeftHandRing2
+    400066: EthanLeftHandRing3
+    400068: EthanLeftHandRing4
+    400070: EthanLeftHandRing4_end
+    400072: EthanLeftHandThumb1
+    400074: EthanLeftHandThumb2
+    400076: EthanLeftHandThumb3
+    400078: EthanLeftHandThumb4
+    400080: EthanLeftHandThumb4_end
+    400082: EthanLeftLeg
+    400084: EthanLeftLowerLip
+    400086: EthanLeftLowerLip_end
+    400088: EthanLeftShoulder
+    400090: EthanLeftToe1
+    400092: EthanLeftToe2
+    400094: EthanLeftToe2_end
+    400096: EthanLeftUpLeg
+    400098: EthanLeftUpperLip
+    400100: EthanLeftUpperLip_end
+    400102: EthanLowerLip
+    400104: EthanLowerLip_end
+    400106: EthanNeck
+    400108: EthanRightArm
+    400110: EthanRightBlink
+    400112: EthanRightBlink_end
+    400114: EthanRightBrow
+    400116: EthanRightBrow_end
+    400118: EthanRightCorner
+    400120: EthanRightCorner_end
+    400122: EthanRightEye
+    400124: EthanRightEye_end
+    400126: EthanRightFoot
+    400128: EthanRightForeArm
+    400130: EthanRightHand
+    400132: EthanRightHandIndex1
+    400134: EthanRightHandIndex2
+    400136: EthanRightHandIndex3
+    400138: EthanRightHandIndex4
+    400140: EthanRightHandIndex4_end
+    400142: EthanRightHandMiddle1
+    400144: EthanRightHandMiddle2
+    400146: EthanRightHandMiddle3
+    400148: EthanRightHandMiddle4
+    400150: EthanRightHandMiddle4_end
+    400152: EthanRightHandPinky1
+    400154: EthanRightHandPinky2
+    400156: EthanRightHandPinky3
+    400158: EthanRightHandPinky4
+    400160: EthanRightHandPinky4_end
+    400162: EthanRightHandRing1
+    400164: EthanRightHandRing2
+    400166: EthanRightHandRing3
+    400168: EthanRightHandRing4
+    400170: EthanRightHandRing4_end
+    400172: EthanRightHandThumb1
+    400174: EthanRightHandThumb2
+    400176: EthanRightHandThumb3
+    400178: EthanRightHandThumb4
+    400180: EthanRightHandThumb4_end
+    400182: EthanRightLeg
+    400184: EthanRightLowerLip
+    400186: EthanRightLowerLip_end
+    400188: EthanRightShoulder
+    400190: EthanRightToe1
+    400192: EthanRightToe2
+    400194: EthanRightToe2_end
+    400196: EthanRightUpLeg
+    400198: EthanRightUpperLip
+    400200: EthanRightUpperLip_end
+    400202: EthanSpine
+    400204: EthanSpine1
+    400206: EthanSpine2
+    400208: EthanUpperLip
+    400210: EthanUpperLip_end
+    400212: WolvEB276b
+    400214: //RootNode
+    400216: WolvEB276b.001
+    4300000: WolvEB276b
+    7400000: WolvEB_CS_HUGing
+    7400002: WolvEB_CS_HUGopen
+    7400004: WolvEB_CS_HUG
+    7400006: WolvEB_CS_HUGout
+    7400008: WolvEB_CS_HUGfast
+    7400010: WolvEB_CS_HUGin
+    9500000: //RootNode
+    13700000: WolvEB276b
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WolvEB_CS_HUGing
+      takeName: WolvEB276b.001|EthanSkeletonAction
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WolvEB276b
+        weight: 0
+      - path: WolvEB276b.001
+        weight: 1
+      - path: WolvEB276b.001/EthanHips
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2/EthanLeftToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2/EthanRightToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner/EthanLeftCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip/EthanLeftUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner/EthanRightCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip/EthanRightUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip/EthanUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip/EthanLeftLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip/EthanLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip/EthanRightLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink/EthanLeftBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow/EthanLeftBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye/EthanLeftEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink/EthanRightBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow/EthanRightBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye/EthanRightEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4/EthanLeftHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4/EthanLeftHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4/EthanLeftHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4/EthanLeftHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4/EthanLeftHandThumb4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4/EthanRightHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4/EthanRightHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4/EthanRightHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4/EthanRightHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4/EthanRightHandThumb4_end
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WolvEB_CS_HUGopen
+      takeName: WolvEB276b.001|EthanSkeletonAction
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WolvEB276b
+        weight: 0
+      - path: WolvEB276b.001
+        weight: 1
+      - path: WolvEB276b.001/EthanHips
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2/EthanLeftToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2/EthanRightToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner/EthanLeftCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip/EthanLeftUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner/EthanRightCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip/EthanRightUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip/EthanUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip/EthanLeftLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip/EthanLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip/EthanRightLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink/EthanLeftBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow/EthanLeftBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye/EthanLeftEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink/EthanRightBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow/EthanRightBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye/EthanRightEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4/EthanLeftHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4/EthanLeftHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4/EthanLeftHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4/EthanLeftHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4/EthanLeftHandThumb4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4/EthanRightHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4/EthanRightHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4/EthanRightHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4/EthanRightHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4/EthanRightHandThumb4_end
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WolvEB_CS_HUG
+      takeName: WolvEB276b.001|EthanSkeletonAction
+      firstFrame: 36
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000010000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WolvEB276b
+        weight: 0
+      - path: WolvEB276b.001
+        weight: 1
+      - path: WolvEB276b.001/EthanHips
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2/EthanLeftToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2/EthanRightToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner/EthanLeftCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip/EthanLeftUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner/EthanRightCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip/EthanRightUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip/EthanUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip/EthanLeftLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip/EthanLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip/EthanRightLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink/EthanLeftBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow/EthanLeftBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye/EthanLeftEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink/EthanRightBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow/EthanRightBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye/EthanRightEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4/EthanLeftHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4/EthanLeftHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4/EthanLeftHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4/EthanLeftHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4/EthanLeftHandThumb4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4/EthanRightHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4/EthanRightHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4/EthanRightHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4/EthanRightHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4/EthanRightHandThumb4_end
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WolvEB_CS_HUGout
+      takeName: WolvEB276b.001|EthanSkeletonAction
+      firstFrame: 57
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WolvEB276b
+        weight: 0
+      - path: WolvEB276b.001
+        weight: 1
+      - path: WolvEB276b.001/EthanHips
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2/EthanLeftToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2/EthanRightToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner/EthanLeftCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip/EthanLeftUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner/EthanRightCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip/EthanRightUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip/EthanUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip/EthanLeftLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip/EthanLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip/EthanRightLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink/EthanLeftBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow/EthanLeftBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye/EthanLeftEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink/EthanRightBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow/EthanRightBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye/EthanRightEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4/EthanLeftHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4/EthanLeftHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4/EthanLeftHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4/EthanLeftHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4/EthanLeftHandThumb4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4/EthanRightHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4/EthanRightHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4/EthanRightHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4/EthanRightHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4/EthanRightHandThumb4_end
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WolvEB_CS_HUGfast
+      takeName: WolvEB276b.001|EthanSkeletonAction
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000010000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WolvEB276b
+        weight: 0
+      - path: WolvEB276b.001
+        weight: 1
+      - path: WolvEB276b.001/EthanHips
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2/EthanLeftToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2/EthanRightToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner/EthanLeftCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip/EthanLeftUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner/EthanRightCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip/EthanRightUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip/EthanUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip/EthanLeftLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip/EthanLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip/EthanRightLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink/EthanLeftBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow/EthanLeftBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye/EthanLeftEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink/EthanRightBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow/EthanRightBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye/EthanRightEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4/EthanLeftHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4/EthanLeftHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4/EthanLeftHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4/EthanLeftHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4/EthanLeftHandThumb4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4/EthanRightHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4/EthanRightHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4/EthanRightHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4/EthanRightHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4/EthanRightHandThumb4_end
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WolvEB_CS_HUGin
+      takeName: WolvEB276b.001|EthanSkeletonAction
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WolvEB276b
+        weight: 0
+      - path: WolvEB276b.001
+        weight: 1
+      - path: WolvEB276b.001/EthanHips
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanLeftUpLeg/EthanLeftLeg/EthanLeftFoot/EthanLeftToe1/EthanLeftToe2/EthanLeftToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanRightUpLeg/EthanRightLeg/EthanRightFoot/EthanRightToe1/EthanRightToe2/EthanRightToe2_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftCorner/EthanLeftCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanLeftUpperLip/EthanLeftUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightCorner/EthanRightCorner_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanRightUpperLip/EthanRightUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanHead1/EthanUpperLip/EthanUpperLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLeftLowerLip/EthanLeftLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanLowerLip/EthanLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanJaw/EthanRightLowerLip/EthanRightLowerLip_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBlink/EthanLeftBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftBrow/EthanLeftBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanLeftEye/EthanLeftEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBlink/EthanRightBlink_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightBrow/EthanRightBrow_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanHead/EthanRightEye/EthanRightEye_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandIndex1/EthanLeftHandIndex2/EthanLeftHandIndex3/EthanLeftHandIndex4/EthanLeftHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandMiddle1/EthanLeftHandMiddle2/EthanLeftHandMiddle3/EthanLeftHandMiddle4/EthanLeftHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandPinky1/EthanLeftHandPinky2/EthanLeftHandPinky3/EthanLeftHandPinky4/EthanLeftHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandRing1/EthanLeftHandRing2/EthanLeftHandRing3/EthanLeftHandRing4/EthanLeftHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanLeftShoulder/EthanLeftArm/EthanLeftForeArm/EthanLeftHand/EthanLeftHandThumb1/EthanLeftHandThumb2/EthanLeftHandThumb3/EthanLeftHandThumb4/EthanLeftHandThumb4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandIndex1/EthanRightHandIndex2/EthanRightHandIndex3/EthanRightHandIndex4/EthanRightHandIndex4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandMiddle1/EthanRightHandMiddle2/EthanRightHandMiddle3/EthanRightHandMiddle4/EthanRightHandMiddle4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandPinky1/EthanRightHandPinky2/EthanRightHandPinky3/EthanRightHandPinky4/EthanRightHandPinky4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandRing1/EthanRightHandRing2/EthanRightHandRing3/EthanRightHandRing4/EthanRightHandRing4_end
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1
+        weight: 1
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4
+        weight: 0
+      - path: WolvEB276b.001/EthanHips/EthanSpine/EthanSpine1/EthanSpine2/EthanNeck/EthanRightShoulder/EthanRightArm/EthanRightForeArm/EthanRightHand/EthanRightHandThumb1/EthanRightHandThumb2/EthanRightHandThumb3/EthanRightHandThumb4/EthanRightHandThumb4_end
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: EthanSpine
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanSpine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanSpine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftToe1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightToe1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftBlink
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightBlink
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanJaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanLeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EthanRightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: WolvEB276b(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WolvEB276b
+      position: {x: 3.96648729e-12, y: 3.02455817e-07, z: -1.47112871e-06}
+      rotation: {x: -.707106888, y: -2.6692538e-08, z: -2.66925415e-08, w: .707106769}
+      scale: {x: 100, y: 100, z: 100}
+      transformModified: 1
+    - name: WolvEB276b.001
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.12323294e-17, y: 1, z: -1.33158053e-07, w: -6.12323492e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanHips
+      position: {x: 4.21622559e-07, y: .778710604, z: -.0330255851}
+      rotation: {x: -.000928232854, y: -.707107186, z: .000928640133, w: .707105219}
+      scale: {x: .99999994, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: EthanSpine
+      position: {x: 5.12556719e-10, y: .0449828394, z: 4.27045077e-14}
+      rotation: {x: -.108408131, y: -.994106472, z: 5.85810369e-07, w: 3.08022072e-06}
+      scale: {x: 1.00000024, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: EthanSpine1
+      position: {x: .0189294554, y: .147709593, z: 1.7601684e-07}
+      rotation: {x: 5.81623681e-07, y: -1.05944416e-07, z: -.063632682, w: .997973442}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanSpine2
+      position: {x: -4.2671493e-09, y: .128895923, z: -4.55984365e-14}
+      rotation: {x: -1.21524657e-09, y: -3.71108283e-11, z: -.000155119284, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: EthanNeck
+      position: {x: -2.89537128e-09, y: .128913805, z: -5.91820734e-15}
+      rotation: {x: 9.81470748e-07, y: -4.27286606e-09, z: -.168594077, w: .985685647}
+      scale: {x: .999998689, y: .999999106, z: .999999881}
+      transformModified: 1
+    - name: EthanLeftShoulder
+      position: {x: 6.51660375e-05, y: 4.61044465e-06, z: .0260261968}
+      rotation: {x: .645314634, y: .405341476, z: .485056341, w: .428937763}
+      scale: {x: 1, y: 1.00000083, z: 1.00000024}
+      transformModified: 1
+    - name: EthanLeftArm
+      position: {x: -8.08034812e-08, y: .12673378, z: 4.04899616e-08}
+      rotation: {x: -.0291852895, y: .305018365, z: -.129120648, w: .943101168}
+      scale: {x: .999999583, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: EthanLeftForeArm
+      position: {x: -7.35675059e-08, y: .246104136, z: -1.77265367e-08}
+      rotation: {x: .0151444552, y: -.608565331, z: -.0355580859, w: .792561948}
+      scale: {x: 1.00000012, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: EthanLeftHand
+      position: {x: 5.25443733e-09, y: .161595166, z: 8.54343014e-08}
+      rotation: {x: .109650172, y: -.0248011481, z: .033919625, w: .993081689}
+      scale: {x: .999999881, y: 1.00000012, z: .999999404}
+      transformModified: 1
+    - name: EthanLeftHandThumb1
+      position: {x: .0223182216, y: .0420669205, z: .0305972323}
+      rotation: {x: .340127617, y: .588119686, z: -.134231061, w: .721394897}
+      scale: {x: 1.00000024, y: 1.0000006, z: .999999702}
+      transformModified: 1
+    - name: EthanLeftHandThumb2
+      position: {x: 5.16618215e-09, y: .02975641, z: -1.80308639e-08}
+      rotation: {x: -.114416927, y: .128218055, z: -.0214851387, w: .984889448}
+      scale: {x: .999999166, y: .999999583, z: 1.00000012}
+      transformModified: 1
+    - name: EthanLeftHandThumb3
+      position: {x: -8.77701467e-09, y: .0218484104, z: -3.94984525e-08}
+      rotation: {x: -.0683738068, y: .583409131, z: -.0942014232, w: .803794086}
+      scale: {x: 1.00000083, y: 1.00000072, z: 1.00000048}
+      transformModified: 1
+    - name: EthanLeftHandThumb4
+      position: {x: -9.05045017e-09, y: .0235455036, z: -1.55394311e-08}
+      rotation: {x: -.338666916, y: 3.80993856e-06, z: -.180532649, w: .923424482}
+      scale: {x: 1, y: 1.00000048, z: .999999464}
+      transformModified: 1
+    - name: EthanLeftHandThumb4_end
+      position: {x: -0, y: .0235455073, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftHandIndex1
+      position: {x: .0237125494, y: .0939019695, z: .00617496436}
+      rotation: {x: -.0249915402, y: .0728136152, z: .0145836556, w: -.996925712}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: EthanLeftHandIndex2
+      position: {x: 1.78827689e-10, y: .0278865136, z: -6.73856038e-09}
+      rotation: {x: .156939968, y: -.126542538, z: .0291474219, w: .979033887}
+      scale: {x: .999999821, y: 1.00000048, z: .999999642}
+      transformModified: 1
+    - name: EthanLeftHandIndex3
+      position: {x: -1.10203837e-08, y: .0239218399, z: -2.53717278e-08}
+      rotation: {x: .145407632, y: -.721104741, z: -.0783428773, w: .672849953}
+      scale: {x: .999998927, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: EthanLeftHandIndex4
+      position: {x: 1.30728672e-08, y: .0219781864, z: -4.11583123e-08}
+      rotation: {x: .179852277, y: 1.66389127e-05, z: -.106725782, w: .977886856}
+      scale: {x: .999999523, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: EthanLeftHandIndex4_end
+      position: {x: -0, y: .0219781604, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftHandMiddle1
+      position: {x: .00584614789, y: .0908879563, z: -.00326958462}
+      rotation: {x: -.0320598036, y: -.0372574851, z: .00843740813, w: .998755634}
+      scale: {x: 1.00000036, y: 1, z: .99999994}
+      transformModified: 1
+    - name: EthanLeftHandMiddle2
+      position: {x: 4.17728003e-08, y: .0325345546, z: -6.87577417e-09}
+      rotation: {x: -.0248489063, y: .79840517, z: .0186425112, w: -.601318836}
+      scale: {x: .999999166, y: .99999994, z: 1.0000006}
+      transformModified: 1
+    - name: EthanLeftHandMiddle3
+      position: {x: -3.57133736e-08, y: .0264004376, z: -2.2127228e-08}
+      rotation: {x: .00157201185, y: .0180078447, z: -.0377377272, w: .999124229}
+      scale: {x: .999999762, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: EthanLeftHandMiddle4
+      position: {x: 1.87895521e-09, y: .0237770155, z: 2.17287646e-08}
+      rotation: {x: .271206051, y: -.0286334623, z: -.0694405884, w: .959586084}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: EthanLeftHandMiddle4_end
+      position: {x: -0, y: .0237769317, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftHandRing1
+      position: {x: -.0149599807, y: .0951116383, z: -.0190603118}
+      rotation: {x: -.054350663, y: .202230364, z: .0147973644, w: -.977716684}
+      scale: {x: 1.0000006, y: 1.00000072, z: .99999994}
+      transformModified: 1
+    - name: EthanLeftHandRing2
+      position: {x: 2.6748872e-09, y: .0278864708, z: -6.07222095e-09}
+      rotation: {x: .0252783187, y: -.710790157, z: -.0249902047, w: .702505529}
+      scale: {x: .999999225, y: 1.00000083, z: .999999762}
+      transformModified: 1
+    - name: EthanLeftHandRing3
+      position: {x: 2.34716211e-08, y: .0208836813, z: -1.1501605e-08}
+      rotation: {x: 1.55978978e-06, y: 1.96435176e-05, z: -.0399758853, w: .999200702}
+      scale: {x: 1.00000048, y: .999999523, z: 1.00000024}
+      transformModified: 1
+    - name: EthanLeftHandRing4
+      position: {x: -2.15199591e-09, y: .0210815873, z: 8.75559358e-09}
+      rotation: {x: .301802635, y: 7.95527831e-06, z: -.0625799, w: .95131439}
+      scale: {x: .999999702, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: EthanLeftHandRing4_end
+      position: {x: -0, y: .0210815147, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftHandPinky1
+      position: {x: -.0369153619, y: .0904416889, z: -.0144423973}
+      rotation: {x: -.0374318138, y: .766192734, z: .0262257885, w: -.640983462}
+      scale: {x: .999999642, y: 1.00000095, z: 1.00000024}
+      transformModified: 1
+    - name: EthanLeftHandPinky2
+      position: {x: -1.36079379e-08, y: .0172569044, z: -3.82536802e-09}
+      rotation: {x: 1.37140194e-06, y: -6.39789869e-05, z: -.0377695523, w: .999286532}
+      scale: {x: .999999404, y: 1.0000006, z: .999999762}
+      transformModified: 1
+    - name: EthanLeftHandPinky3
+      position: {x: -2.13354294e-08, y: .019562874, z: -6.7340955e-09}
+      rotation: {x: -4.85852161e-06, y: 2.76234441e-05, z: -.0377644338, w: .999286652}
+      scale: {x: 1.00000012, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: EthanLeftHandPinky4
+      position: {x: -1.1888444e-08, y: .0121119339, z: 1.69651901e-08}
+      rotation: {x: .304520816, y: 1.70957196e-06, z: .128884315, w: .943745732}
+      scale: {x: 1.0000006, y: .999999583, z: .999999523}
+      transformModified: 1
+    - name: EthanLeftHandPinky4_end
+      position: {x: -0, y: .0121120038, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightShoulder
+      position: {x: 6.54151372e-05, y: 4.82841142e-06, z: -.0260260645}
+      rotation: {x: -.645317256, y: -.405342251, z: .48505497, w: .428934813}
+      scale: {x: .999999881, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: EthanRightArm
+      position: {x: -9.88604043e-08, y: .126733959, z: 4.1454018e-09}
+      rotation: {x: .029185079, y: -.305018902, z: -.129120201, w: .943101108}
+      scale: {x: .999999762, y: .999999821, z: 1.0000006}
+      transformModified: 1
+    - name: EthanRightForeArm
+      position: {x: 5.2348458e-08, y: .246103048, z: -9.62800151e-09}
+      rotation: {x: -.0151448334, y: .608560443, z: -.0355578847, w: .792565823}
+      scale: {x: .999999821, y: 1.00000024, z: 1.00000083}
+      transformModified: 1
+    - name: EthanRightHand
+      position: {x: -2.58446109e-09, y: .161594898, z: 2.42554279e-08}
+      rotation: {x: -.109647967, y: .0248015486, z: .0339146964, w: .993082047}
+      scale: {x: 1.00000024, y: .999999821, z: .999998808}
+      transformModified: 1
+    - name: EthanRightHandThumb1
+      position: {x: .0223181881, y: .0420663506, z: -.0305983294}
+      rotation: {x: -.27256757, y: -.601945996, z: -.172717541, w: .730436027}
+      scale: {x: 1.00000012, y: 1, z: .999999523}
+      transformModified: 1
+    - name: EthanRightHandThumb2
+      position: {x: 1.73043802e-08, y: .0297561381, z: -1.53922546e-08}
+      rotation: {x: .114385575, y: -.12816079, z: -.0214793123, w: .984900713}
+      scale: {x: .999999642, y: .999999285, z: 1.00000012}
+      transformModified: 1
+    - name: EthanRightHandThumb3
+      position: {x: -3.40034561e-08, y: .0218485724, z: 1.69749157e-08}
+      rotation: {x: .0683867857, y: -.583440483, z: -.0942165852, w: .803768456}
+      scale: {x: 1.00000095, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: EthanRightHandThumb4
+      position: {x: 8.94329855e-09, y: .0235455148, z: 1.49383812e-08}
+      rotation: {x: .325932115, y: .799140215, z: .202624783, w: .462694854}
+      scale: {x: .999999344, y: 1.00000048, z: .999999702}
+      transformModified: 1
+    - name: EthanRightHandThumb4_end
+      position: {x: -0, y: .0235454477, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightHandIndex1
+      position: {x: .0237121116, y: .0939025059, z: -.00617530989}
+      rotation: {x: .0249895286, y: -.0728176534, z: .0145862186, w: -.996925473}
+      scale: {x: .999999821, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: EthanRightHandIndex2
+      position: {x: 5.52731461e-09, y: .0278863646, z: -4.9927035e-08}
+      rotation: {x: -.156949088, y: .1265679, z: .0291389972, w: .979029417}
+      scale: {x: .999998927, y: .999999464, z: .99999994}
+      transformModified: 1
+    - name: EthanRightHandIndex3
+      position: {x: -3.11502202e-09, y: .0239224695, z: -1.67025078e-08}
+      rotation: {x: -.145412073, y: .721081018, z: -.0783383623, w: .672874928}
+      scale: {x: .99999994, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: EthanRightHandIndex4
+      position: {x: 4.59351028e-08, y: .0219780654, z: 7.22084081e-09}
+      rotation: {x: -.209031016, y: -.472214818, z: -.00661200844, w: .856315136}
+      scale: {x: .999999881, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: EthanRightHandIndex4_end
+      position: {x: -0, y: .021978084, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightHandMiddle1
+      position: {x: .00584538886, y: .0908882245, z: .00326948427}
+      rotation: {x: .032057412, y: .0372807644, z: .00842891075, w: .998754919}
+      scale: {x: .99999994, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: EthanRightHandMiddle2
+      position: {x: 1.25300046e-08, y: .0325333551, z: 4.51114879e-08}
+      rotation: {x: .196641549, y: -.777933359, z: .146239594, w: -.578589559}
+      scale: {x: .999999464, y: .999999464, z: .99999994}
+      transformModified: 1
+    - name: EthanRightHandMiddle3
+      position: {x: 4.18995043e-08, y: .0264009517, z: -6.28321006e-10}
+      rotation: {x: 6.34928665e-06, y: 4.33505511e-06, z: -.116397657, w: .993202686}
+      scale: {x: .99999994, y: 1.0000006, z: .999999762}
+      transformModified: 1
+    - name: EthanRightHandMiddle4
+      position: {x: -2.5142981e-09, y: .0237771217, z: -1.29627136e-08}
+      rotation: {x: -.278574407, y: -.355976999, z: .0277720653, w: .89157474}
+      scale: {x: 1.00000012, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: EthanRightHandMiddle4_end
+      position: {x: -0, y: .0237769932, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightHandRing1
+      position: {x: -.0149606941, y: .0951114669, z: .0190618783}
+      rotation: {x: -.0528552867, y: -.236051127, z: -.0182810836, w: -.970129848}
+      scale: {x: .999999642, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: EthanRightHandRing2
+      position: {x: 1.99267958e-09, y: .0278854109, z: 3.19358477e-08}
+      rotation: {x: -.024367949, y: .684920311, z: -.0258796383, w: .727750421}
+      scale: {x: .999999881, y: .999999702, z: .999999523}
+      transformModified: 1
+    - name: EthanRightHandRing3
+      position: {x: 6.50907594e-08, y: .0208841972, z: -6.29244523e-09}
+      rotation: {x: 9.14981655e-08, y: 8.73892059e-05, z: -.0399735272, w: .999200821}
+      scale: {x: .999999583, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: EthanRightHandRing4
+      position: {x: -3.60408485e-08, y: .0210817195, z: -1.02655617e-08}
+      rotation: {x: -.284946918, y: -.436376005, z: .117669486, w: .845301867}
+      scale: {x: 1.00000012, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: EthanRightHandRing4_end
+      position: {x: -0, y: .0210816469, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightHandPinky1
+      position: {x: -.0369156376, y: .0904431045, z: .0144422287}
+      rotation: {x: -.0233856291, y: -.777429223, z: -.0596147515, w: -.625702083}
+      scale: {x: 1.00000012, y: .999999464, z: 1.00000036}
+      transformModified: 1
+    - name: EthanRightHandPinky2
+      position: {x: 2.90780324e-08, y: .0172566045, z: -1.9259442e-08}
+      rotation: {x: -.0016710785, y: -.00116178882, z: -.0384899713, w: .999256968}
+      scale: {x: 1.00000024, y: .999999821, z: .999999166}
+      transformModified: 1
+    - name: EthanRightHandPinky3
+      position: {x: -1.43322829e-08, y: .019562861, z: -3.99522015e-09}
+      rotation: {x: 6.08705705e-06, y: -.000221823677, z: -.0377644412, w: .999286652}
+      scale: {x: .999999642, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: EthanRightHandPinky4
+      position: {x: 1.16873071e-08, y: .0121122478, z: -1.52195341e-08}
+      rotation: {x: -.267847568, y: -.183959171, z: .160994291, w: .931932211}
+      scale: {x: .999999464, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: EthanRightHandPinky4_end
+      position: {x: -0, y: .0121122254, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanHead
+      position: {x: -.000129393666, y: .0995408967, z: -4.72276895e-07}
+      rotation: {x: -.00565856323, y: -.00071663683, z: -.147896022, w: .988986552}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: EthanHead1
+      position: {x: -.0911499038, y: .149085611, z: .00191810972}
+      rotation: {x: -.00229188171, y: -.00581074599, z: .872063458, w: -.489353091}
+      scale: {x: .999999762, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: EthanUpperLip
+      position: {x: -.0125616631, y: .166879341, z: -2.70506007e-05}
+      rotation: {x: -.368137628, y: .603909612, z: -.369126469, w: -.60292089}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: EthanUpperLip_end
+      position: {x: -0, y: .164575368, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightUpperLip
+      position: {x: -.00164997054, y: .161289111, z: -.0143043883}
+      rotation: {x: -.368137628, y: .603909612, z: -.369126469, w: -.60292089}
+      scale: {x: .99999994, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: EthanRightUpperLip_end
+      position: {x: -0, y: .164575368, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftUpperLip
+      position: {x: -.00170499156, y: .161302432, z: .0143004488}
+      rotation: {x: -.368137628, y: .603909612, z: -.369126469, w: -.60292089}
+      scale: {x: 1.00000012, y: 1, z: .999999762}
+      transformModified: 1
+    - name: EthanLeftUpperLip_end
+      position: {x: -0, y: .164575368, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightCorner
+      position: {x: .00800542254, y: .163816988, z: -.0243747681}
+      rotation: {x: -.368137628, y: .603909612, z: -.369126469, w: -.60292089}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: EthanRightCorner_end
+      position: {x: -0, y: .164575368, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftCorner
+      position: {x: .00791159552, y: .163839668, z: .024405757}
+      rotation: {x: -.368137628, y: .603909612, z: -.369126469, w: -.60292089}
+      scale: {x: 1.00000012, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: EthanLeftCorner_end
+      position: {x: -0, y: .164575383, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanJaw
+      position: {x: .00850879867, y: .0431831405, z: .000447876169}
+      rotation: {x: -.47400704, y: -.576436281, z: -.371187478, w: .552502096}
+      scale: {x: .999999702, y: .999999344, z: .999999106}
+      transformModified: 1
+    - name: EthanLowerLip
+      position: {x: .00101010955, y: .0591704324, z: .00196010456}
+      rotation: {x: .137517035, y: .0555825867, z: -.0563105978, w: .987334251}
+      scale: {x: 1, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: EthanLowerLip_end
+      position: {x: -0, y: .0527346879, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftLowerLip
+      position: {x: .0136183267, y: .0460215397, z: -.00277128164}
+      rotation: {x: .137517035, y: .0555825867, z: -.0563105978, w: .987334251}
+      scale: {x: 1.00000012, y: 1.00000048, z: 1.00000024}
+      transformModified: 1
+    - name: EthanLeftLowerLip_end
+      position: {x: -0, y: .0527345352, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightLowerLip
+      position: {x: -.0146284159, y: .0487649366, z: .000811315025}
+      rotation: {x: .137517035, y: .0555825867, z: -.0563106053, w: .987334251}
+      scale: {x: 1, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: EthanRightLowerLip_end
+      position: {x: -0, y: .0527345352, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightBlink
+      position: {x: .0169768929, y: .111401632, z: -.0325825177}
+      rotation: {x: .660130441, y: -.281638622, z: .642448008, w: .268641055}
+      scale: {x: 1.0000006, y: 1.00000095, z: 1}
+      transformModified: 1
+    - name: EthanRightBlink_end
+      position: {x: -0, y: .115385003, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftBrow
+      position: {x: .0167756043, y: .126953617, z: .0303169526}
+      rotation: {x: .619608223, y: -.34867537, z: .61390692, w: .342971474}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: EthanLeftBrow_end
+      position: {x: -0, y: .115384996, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftBlink
+      position: {x: .0171550587, y: .110768467, z: .0250740144}
+      rotation: {x: .654842615, y: -.275995702, z: .649832606, w: .26967603}
+      scale: {x: .999999881, y: 1.0000006, z: 1.00000036}
+      transformModified: 1
+    - name: EthanLeftBlink_end
+      position: {x: -0, y: .115384974, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightBrow
+      position: {x: .0165975261, y: .127586663, z: -.0273395814}
+      rotation: {x: .619608223, y: -.34867534, z: .61390686, w: .342971474}
+      scale: {x: 1.00000036, y: 1.0000006, z: 1.00000024}
+      transformModified: 1
+    - name: EthanRightBrow_end
+      position: {x: -0, y: .115384996, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftEye
+      position: {x: .00768637285, y: .100169845, z: .0289294999}
+      rotation: {x: .619608223, y: -.34867537, z: .61390692, w: .342971474}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: EthanLeftEye_end
+      position: {x: -0, y: .115384988, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightEye
+      position: {x: .00744952075, y: .100710936, z: -.0267643444}
+      rotation: {x: .619608223, y: -.34867534, z: .61390686, w: .342971504}
+      scale: {x: 1, y: 1.00000048, z: 1.00000036}
+      transformModified: 1
+    - name: EthanRightEye_end
+      position: {x: -0, y: .115384988, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanLeftUpLeg
+      position: {x: -.009464995, y: -.043976143, z: .0743628591}
+      rotation: {x: -.996973813, y: .073839277, z: .00469600782, w: -.0238555167}
+      scale: {x: .999989986, y: .999999583, z: .999998689}
+      transformModified: 1
+    - name: EthanLeftLeg
+      position: {x: 1.43869944e-10, y: .357836097, z: 3.27341376e-09}
+      rotation: {x: -5.03144111e-06, y: -2.07764697e-05, z: -.168771207, w: -.985655308}
+      scale: {x: .999999583, y: .999999464, z: .99999994}
+      transformModified: 1
+    - name: EthanLeftFoot
+      position: {x: -4.52692467e-11, y: .332370371, z: -7.95016941e-09}
+      rotation: {x: -.00475772098, y: .0915295407, z: -.553350806, w: .827890515}
+      scale: {x: 1.00000215, y: .999998152, z: 1.00000012}
+      transformModified: 1
+    - name: EthanLeftToe1
+      position: {x: 8.05958522e-10, y: .139377415, z: 1.63571823e-08}
+      rotation: {x: -.324310511, y: -.945950687, z: 3.38949985e-06, w: 1.94040035e-06}
+      scale: {x: .99999541, y: 1.00000429, z: 1}
+      transformModified: 1
+    - name: EthanLeftToe2
+      position: {x: -6.5841671e-10, y: .0817435309, z: -7.0015127e-09}
+      rotation: {x: -1.26568708e-07, y: 1, z: 1.7208398e-06, w: -2.31461854e-06}
+      scale: {x: 1, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: EthanLeftToe2_end
+      position: {x: -0, y: .0817426667, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EthanRightUpLeg
+      position: {x: -.00946446974, y: -.0439760834, z: -.0743630603}
+      rotation: {x: .996973634, y: -.0738403872, z: .00468251994, w: -.0238577947}
+      scale: {x: 1.00001001, y: .999999464, z: 1.00000131}
+      transformModified: 1
+    - name: EthanRightLeg
+      position: {x: 1.53764487e-10, y: .357836306, z: -5.82156368e-09}
+      rotation: {x: 9.51558604e-07, y: 1.23125392e-05, z: -.168764994, w: -.985656381}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: EthanRightFoot
+      position: {x: -7.11567782e-09, y: .332369864, z: -2.69071015e-10}
+      rotation: {x: .00474956119, y: -.0915296301, z: -.553338468, w: .8278988}
+      scale: {x: .999997675, y: 1.0000025, z: .999999881}
+      transformModified: 1
+    - name: EthanRightToe1
+      position: {x: -3.84127646e-10, y: .139375508, z: 3.79945453e-09}
+      rotation: {x: .324320197, y: .945947409, z: -1.08989855e-06, w: -1.76819003e-06}
+      scale: {x: 1.00000477, y: .999995291, z: .99999994}
+      transformModified: 1
+    - name: EthanRightToe2
+      position: {x: -5.18619132e-12, y: .0817417428, z: -7.34084971e-09}
+      rotation: {x: 1.06248876e-06, y: 1.19386846e-06, z: 3.73695144e-07, w: -1}
+      scale: {x: .999999881, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: EthanRightToe2_end
+      position: {x: -0, y: .0817426667, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
