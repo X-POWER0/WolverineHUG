@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5182ad69e9decb4b9017c727d18014b
+timeCreated: 1708255613
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shader: {fileID: 4800000, guid: b61f0d8d8244b4b28aa66b0c8cb46a8d, type: 3}
+  - converted3DLut: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
