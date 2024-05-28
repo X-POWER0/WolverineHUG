@@ -34,18 +34,15 @@ and employment for skill set and interests
 Mainpage
 https://bit.ly/3PWbGkc
 
-<img src="https://res.cloudinary.com/dcsjcckfc/image/upload/v1661610974/forum/POSTHUG_rdcro8.jpg" style="width:70%;">
+<img src="https://github.com/X-POWER0/WolverineHUG/blob/main/WolverineHUG_vid_screen.jpg" style="width:70%;">
 
 All source and project files of this project soon will be released...
 
-!!!Only project WolverineHUG soely licensed by WTFPL3.1 not other projects described in MESSAGE!!!
+!!!Only project WolverineHUG soely licensed by The Unlicense not other projects described in MESSAGE!!!
 -----------------------
 ....................................................................................................................
  
- This project is libre, and licenced under the terms of the
- DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE, version 3.1,
- as published by dtf on July 2019. See the COPYING file or
- https://ph.dtf.wtf/w/wtfpl/#version-3-1 for more details.
+ This project is libre, and licenced by The Unlicense
  
 ....................................................................................................................
 
@@ -55,7 +52,7 @@ To Progress in production, management, project management, timemanagement, effic
 project presentation, complete projects faster,  social advertisement, copywriting, monetising
 3d, conceptart, vfxart, script writing, game-development, programming.
 
-X-P hard worker & self taught<br>
+X-P stubborn worker & self taught<br>
 creator, author, director, modder,<br>
 designer, story-script writer,<br>
 vfxartist(not pro), music creator, animator,<br>
@@ -73,14 +70,14 @@ this from scratch and working on other parts of MESSAGE<br>
 
 Haven't slept, haven't ate and lose focus for all the time<br>
 ACTUALY:<br>
-haven't ate anything      - all these days,<br>
+ate none                  - done<br>
 slept ones while render   - from 6am till 10am at first day. and then got backto sleaping few hours a day.<br>
-Versions of project files - 81+ >.<br>
+Versions of project files - 80 and one + >.<br>
 Failed renders            - 30+ > (estimated).<br>
 Wonder off out of work    - none times.<br>
 --Had to check render files while rendering process, render parts,<br>
 were bugs and unexpected results, had to check every frame of render process<br>
-to save time and stop bad renders)<br>
+to save time and stop bad renders)(standart thing with lowend machinery)<br>
 
 !!!ENORMOUSLY GRATEFUL to ALL DEVS!!!<br>
 -----------
@@ -101,9 +98,9 @@ KMPlayer 3.0.0.1439<br>
 Virtualdub(synced sound but lags video and sound)<br>
 Avidemux 2.7.4.5 (lugs but close to KMP result while able to preview even 4k.)<br>
 AkelaPad 4.9.8<br>
-Win 10 x86  2016 by LeX_600<br>
+Win 10 x86 should gone for Linux(but were inexperienced)<br>
 THANK YOU LeX_600!!!<br>
-(any other winX won't work)<br>
+<br>
 Lenovo ideapad s10-2<br>
 (dead line of pixels, screen size unable to see full program window,<br>
 no OpenGL, x86 architecture only, Can't watch FullHD,<br>
@@ -117,7 +114,7 @@ Last Complete render finished on 7:37 of third day, cleaning work till 8:30<br>
 went to sleep.
 
 -WOKE UP 10:30
-work on post
+working on post
 
 WANT TO WORK AND COMPLETE MORE PROJECTS!!!
 =========================================
