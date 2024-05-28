@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.21.0" title="Shotcut version 20.06.28" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="00:00:11.080">
+    <property name="length">00:00:11.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_main/WolvHUG.%04d.jpg?begin=0001</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">0001</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_main/WolvHUG.0001.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WolvHUG.0001.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:04.960">
+    <property name="length">00:00:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_%01d.jpg?begin=1</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_1.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WvBkw_1.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:53.440">
+    <property name="length">00:00:53.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/_TEMP/Wolv47/Wolv48.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-08-22T09:48:01</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5bec133e2ea1f33d218c324b884f57f8</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:03:14.640">
+    <property name="length">00:03:14.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/audio/X-POWER - WolvHUG7.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2022-08-22T19:17:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">373984fe0fe5cb1c2e7ba79acb9ce2ec</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FF000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FF000000</property>
+    <property name="shotcut:detail">#FF000000</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 20.06.28">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:11.080"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:04.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:53.440"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:03:14.640"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:53.400">
+    <property name="length">00:00:53.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:53.400"/>
+  </playlist>
+  <producer id="producer5" in="00:00:00.000" out="00:00:11.080">
+    <property name="length">00:00:11.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_main/WolvHUG.%04d.jpg?begin=0001</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">0001</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_main/WolvHUG.0001.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WolvHUG.0001.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:00:11.080">
+    <property name="length">00:00:11.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_main/WolvHUG.%04d.jpg?begin=0001</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">0001</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_main/WolvHUG.0001.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WolvHUG.0001.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:04.960">
+    <property name="length">00:00:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_%01d.jpg?begin=1</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_1.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WvBkw_1.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:00:11.080">
+    <property name="length">00:00:11.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_main/WolvHUG.%04d.jpg?begin=0001</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">0001</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_main/WolvHUG.0001.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WolvHUG.0001.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:00:04.960">
+    <property name="length">00:00:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_%01d.jpg?begin=1</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_1.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WvBkw_1.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="00:00:11.080">
+    <property name="length">00:00:11.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_main/WolvHUG.%04d.jpg?begin=0001</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">0001</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_main/WolvHUG.0001.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WolvHUG.0001.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:00:04.960">
+    <property name="length">00:00:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_%01d.jpg?begin=1</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_1.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WvBkw_1.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="00:00:11.080">
+    <property name="length">00:00:11.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_main/WolvHUG.%04d.jpg?begin=0001</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">0001</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_main/WolvHUG.0001.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WolvHUG.0001.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="00:00:04.960">
+    <property name="length">00:00:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_%01d.jpg?begin=1</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_1.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WvBkw_1.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:00:11.080">
+    <property name="length">00:00:11.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_main/WolvHUG.%04d.jpg?begin=0001</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">0001</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_main/WolvHUG.0001.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WolvHUG.0001.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="00:00:04.960">
+    <property name="length">00:00:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_%01d.jpg?begin=1</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="begin">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut_resource">Source/img/OTrender/WolvHUG_bckwrds_part/WvBkw_1.jpg</property>
+    <property name="autolength">1</property>
+    <property name="shotcut_sequence">1</property>
+    <property name="shotcut:caption">WvBkw_1.jpg</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FF000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FF000000</property>
+    <property name="shotcut:detail">#FF000000</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">Main</property>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:06.160"/>
+    <entry producer="producer6" in="00:00:06.200" out="00:00:11.080"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:04.960"/>
+    <entry producer="producer8" in="00:00:06.200" out="00:00:11.080"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:04.960"/>
+    <entry producer="producer10" in="00:00:06.200" out="00:00:11.080"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:04.960"/>
+    <entry producer="producer12" in="00:00:06.200" out="00:00:11.080"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:04.960"/>
+    <entry producer="producer14" in="00:00:06.200" out="00:00:11.080"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:01.800"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:00.720"/>
+  </playlist>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FFFFFFFF</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FFFFFFFF</property>
+    <property name="shotcut:detail">#FFFFFFFF</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter1" in="00:00:04.960" out="00:00:53.360">
+      <property name="version">1</property>
+      <property name="mlt_service">frei0r.cairogradient</property>
+      <property name="shotcut:filter">gradient</property>
+      <property name="0">gradient_radial</property>
+      <property name="1">#000000</property>
+      <property name="2">1</property>
+      <property name="3">#ffffff</property>
+      <property name="4">1</property>
+      <property name="9">0.317</property>
+      <property name="10">normal</property>
+      <property name="shotcut:rect">00:00:00.000=521 471 735 189 1</property>
+      <property name="5">00:00:00.000=0.46276</property>
+      <property name="6">00:00:00.000=0.523611</property>
+      <property name="7">00:00:00.000=0.654167</property>
+      <property name="8">00:00:00.000=0.611111</property>
+    </filter>
+    <filter id="filter2" in="00:00:04.960" out="00:00:53.360">
+      <property name="mlt_service">webvfx</property>
+      <property name="shotcut:filter">webvfxSwirl</property>
+      <property name="mlt_resolution_scale">1</property>
+      <property name="resource">D:/Program Files/Shotcut/share/shotcut/qml/filters/webvfx_swirl/swirl.html</property>
+      <property name="maximum">0.39</property>
+      <property name="mlt_profile_scale_width">0.333333</property>
+      <property name="mlt_profile_scale_height">0.333333</property>
+      <property name="factory">loader</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter3" in="00:00:04.960" out="00:00:53.360">
+      <property name="maxdiameter">22</property>
+      <property name="maxcount">1</property>
+      <property name="mlt_service">dust</property>
+      <property name="cache-dy-0-12">10</property>
+      <property name="cache-dy-4-12">18</property>
+      <property name="cache-dy-3-12">28</property>
+      <property name="cache-dy-0-57">51</property>
+      <property name="cache-dy-4-57">87</property>
+      <property name="cache-dy-3-57">134</property>
+      <property name="cache-dy-1-57">75</property>
+      <property name="cache-dy-2-57">34</property>
+      <property name="disable">0</property>
+      <property name="cache-dy-0-140">126</property>
+      <property name="cache-dy-1-140">185</property>
+      <property name="cache-dy-4-140">215</property>
+      <property name="cache-dy-3-140">329</property>
+      <property name="cache-dy-2-140">85</property>
+    </filter>
+    <filter id="filter4" in="00:00:04.960" out="00:00:53.360">
+      <property name="start">1</property>
+      <property name="hori">66</property>
+      <property name="vert">84</property>
+      <property name="mlt_service">boxblur</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter0" in="00:00:04.960" out="00:00:53.360">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_gaussian</property>
+      <property name="1">0.99</property>
+      <property name="0">0.978</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter5" in="00:00:04.960" out="00:00:53.360">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_lowpass</property>
+      <property name="1">0.5</property>
+      <property name="0">1</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter6" in="00:00:04.960" out="00:00:53.360">
+      <property name="mlt_service">avfilter.noise</property>
+      <property name="shotcut:filter">noise_fast</property>
+      <property name="av.all_flags">a+t</property>
+      <property name="av.all_strength">24.3</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter7" in="00:00:04.960" out="00:00:53.360">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">1</property>
+      <property name="transition.rect">00:00:02.520=-996 -234 4343 1677 1;00:00:03.360=-1426 -664 4866 2600 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter8" in="00:00:04.960" out="00:00:53.360">
+      <property name="mode">multiply</property>
+      <property name="mlt_service">cairoblend_mode</property>
+      <property name="shotcut:filter">blendMode</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter9" in="00:00:04.960" out="00:00:53.360">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.960=1;00:00:01.080=1;00:00:17.240=1;00:00:21.320=0.78;00:00:23.560=1;00:00:24.840=1;00:00:25.920=0;00:00:27.360=0.8;00:00:27.840=1;00:00:48.440=</property>
+      <property name="opacity">00:00:00.000=0;00:00:00.960=1;00:00:01.080=1;00:00:17.240=1;00:00:21.320=0.78;00:00:23.560=1;00:00:24.840=1;00:00:25.920=0;00:00:27.360=0.8;00:00:27.840=1;00:00:48.440=</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">Light</property>
+    <blank length="00:00:04.960"/>
+    <entry producer="producer17" in="00:00:04.960" out="00:00:53.360"/>
+  </playlist>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FFFFFFFF</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FFFFFFFF</property>
+    <property name="shotcut:detail">#FFFFFFFF</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter10" out="00:00:05.880">
+      <property name="version">1</property>
+      <property name="mlt_service">frei0r.cairogradient</property>
+      <property name="shotcut:filter">gradient</property>
+      <property name="0">gradient_radial</property>
+      <property name="1">#000000</property>
+      <property name="2">1</property>
+      <property name="3">#ffffff</property>
+      <property name="4">1</property>
+      <property name="9">0.317</property>
+      <property name="10">normal</property>
+      <property name="shotcut:rect">00:00:00.000=521 471 735 189 1</property>
+      <property name="5">00:00:00.000=0.46276</property>
+      <property name="6">00:00:00.000=0.523611</property>
+      <property name="7">00:00:00.000=0.654167</property>
+      <property name="8">00:00:00.000=0.611111</property>
+    </filter>
+    <filter id="filter11" out="00:00:05.880">
+      <property name="mlt_service">webvfx</property>
+      <property name="shotcut:filter">webvfxSwirl</property>
+      <property name="mlt_resolution_scale">1</property>
+      <property name="resource">D:/Program Files/Shotcut/share/shotcut/qml/filters/webvfx_swirl/swirl.html</property>
+      <property name="maximum">0.39</property>
+      <property name="mlt_profile_scale_width">0.333333</property>
+      <property name="mlt_profile_scale_height">0.333333</property>
+      <property name="factory">loader</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter12" out="00:00:05.880">
+      <property name="maxdiameter">22</property>
+      <property name="maxcount">11</property>
+      <property name="mlt_service">dust</property>
+      <property name="cache-dy-0-12">10</property>
+      <property name="cache-dy-4-12">18</property>
+      <property name="cache-dy-3-12">28</property>
+      <property name="cache-dy-0-57">51</property>
+      <property name="cache-dy-4-57">87</property>
+      <property name="cache-dy-3-57">134</property>
+      <property name="cache-dy-1-57">75</property>
+      <property name="cache-dy-2-57">34</property>
+      <property name="disable">0</property>
+      <property name="cache-dy-0-140">126</property>
+      <property name="cache-dy-1-140">185</property>
+      <property name="cache-dy-4-140">215</property>
+      <property name="cache-dy-3-140">329</property>
+      <property name="cache-dy-2-140">85</property>
+    </filter>
+    <filter id="filter13" out="00:00:05.880">
+      <property name="start">1</property>
+      <property name="hori">66</property>
+      <property name="vert">84</property>
+      <property name="mlt_service">boxblur</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter14" out="00:00:05.880">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_gaussian</property>
+      <property name="1">0.99</property>
+      <property name="0">0.978</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter15" out="00:00:05.880">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_lowpass</property>
+      <property name="1">0.5</property>
+      <property name="0">1</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter16" out="00:00:05.880">
+      <property name="mlt_service">avfilter.noise</property>
+      <property name="shotcut:filter">noise_fast</property>
+      <property name="av.all_flags">a+t</property>
+      <property name="av.all_strength">24.3</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter17" out="00:00:05.880">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">1</property>
+      <property name="transition.rect">00:00:02.520=-996 -234 4343 1677 1;00:00:03.360=-1426 -664 4866 2600 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter18" out="00:00:05.880">
+      <property name="mode">multiply</property>
+      <property name="mlt_service">cairoblend_mode</property>
+      <property name="shotcut:filter">blendMode</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter19" out="00:00:05.880">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=1;00:00:01.080=1;00:00:04.960=1;00:00:05.880=0;00:00:05.920=0</property>
+      <property name="opacity">00:00:00.000=1;00:00:01.080=1;00:00:04.960=1;00:00:05.880=0;00:00:05.920=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FFFFFFFF</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FFFFFFFF</property>
+    <property name="shotcut:detail">#FFFFFFFF</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter20" in="00:00:22.200" out="00:00:33.680">
+      <property name="version">1</property>
+      <property name="mlt_service">frei0r.cairogradient</property>
+      <property name="shotcut:filter">gradient</property>
+      <property name="0">gradient_radial</property>
+      <property name="1">#000000</property>
+      <property name="2">1</property>
+      <property name="3">#ffffff</property>
+      <property name="4">1</property>
+      <property name="9">0.317</property>
+      <property name="10">normal</property>
+      <property name="shotcut:rect">00:00:00.000=521 471 735 189 1</property>
+      <property name="5">00:00:00.000=0.46276</property>
+      <property name="6">00:00:00.000=0.523611</property>
+      <property name="7">00:00:00.000=0.654167</property>
+      <property name="8">00:00:00.000=0.611111</property>
+    </filter>
+    <filter id="filter21" in="00:00:22.200" out="00:00:33.680">
+      <property name="mlt_service">webvfx</property>
+      <property name="shotcut:filter">webvfxSwirl</property>
+      <property name="mlt_resolution_scale">1</property>
+      <property name="resource">D:/Program Files/Shotcut/share/shotcut/qml/filters/webvfx_swirl/swirl.html</property>
+      <property name="maximum">0.39</property>
+      <property name="mlt_profile_scale_width">0.333333</property>
+      <property name="mlt_profile_scale_height">0.333333</property>
+      <property name="factory">loader</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter22" in="00:00:22.200" out="00:00:33.680">
+      <property name="maxdiameter">22</property>
+      <property name="maxcount">5</property>
+      <property name="mlt_service">dust</property>
+      <property name="cache-dy-0-12">10</property>
+      <property name="cache-dy-4-12">18</property>
+      <property name="cache-dy-3-12">28</property>
+      <property name="cache-dy-0-57">51</property>
+      <property name="cache-dy-4-57">87</property>
+      <property name="cache-dy-3-57">134</property>
+      <property name="cache-dy-1-57">75</property>
+      <property name="cache-dy-2-57">34</property>
+      <property name="disable">0</property>
+      <property name="cache-dy-0-140">126</property>
+      <property name="cache-dy-1-140">185</property>
+      <property name="cache-dy-4-140">215</property>
+      <property name="cache-dy-3-140">329</property>
+      <property name="cache-dy-2-140">85</property>
+    </filter>
+    <filter id="filter23" in="00:00:22.200" out="00:00:33.680">
+      <property name="start">1</property>
+      <property name="hori">66</property>
+      <property name="vert">84</property>
+      <property name="mlt_service">boxblur</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter24" in="00:00:22.200" out="00:00:33.680">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_gaussian</property>
+      <property name="1">0.99</property>
+      <property name="0">0.978</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter25" in="00:00:22.200" out="00:00:33.680">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_lowpass</property>
+      <property name="1">0.5</property>
+      <property name="0">1</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter26" in="00:00:22.200" out="00:00:33.680">
+      <property name="mlt_service">avfilter.noise</property>
+      <property name="shotcut:filter">noise_fast</property>
+      <property name="av.all_flags">a+t</property>
+      <property name="av.all_strength">24.3</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter27" in="00:00:22.200" out="00:00:33.680">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">1</property>
+      <property name="transition.rect">00:00:02.520=-996 -234 4343 1677 1;00:00:03.360=-1426 -664 4866 2600 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter28" in="00:00:22.200" out="00:00:33.680">
+      <property name="mode">multiply</property>
+      <property name="mlt_service">cairoblend_mode</property>
+      <property name="shotcut:filter">blendMode</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter29" in="00:00:22.200" out="00:00:33.680">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:04.080=0.66;00:00:06.320=0;00:00:07.600=0;00:00:08.680=1;00:00:10.120=0.25;00:00:10.600=0;00:00:11.480=0;00:00:11.520=0</property>
+      <property name="opacity">00:00:00.000=0;00:00:01.080=1;00:00:04.080=0.66;00:00:04.960=1;00:00:05.920=0;00:00:06.320=0;00:00:07.600=0;00:00:08.680=1;00:00:10.120=0.25;00:00:10.600=0;00:00:11.480=0;00:00:11.520=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">DustLight</property>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:05.880"/>
+    <blank length="00:00:16.280"/>
+    <entry producer="producer19" in="00:00:22.200" out="00:00:33.680"/>
+  </playlist>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter30" out="00:00:19.640">
+      <property name="argument">TWO days with nights
+ 
+ to COMPLETE
+ this from scratch
+ 
+ 
+PS: extencivly used 
+AkelaPad 4.9.8
+LMMS 0.4.11 
+ 
+ 
+ </property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff5500</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">right</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+    <filter id="filter31" out="00:00:19.640">
+      <property name="argument">
+
+
+
+
+
+
+
+
+
+
+
+
+ENORMOUSLY GREATFULL to ALL DEVS!!!
+and USERS who ask and share tips</property>
+      <property name="geometry">5 364 1925 689 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff0000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaff6a6a</property>
+      <property name="pad">0</property>
+      <property name="halign">right</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter32" out="00:00:19.640">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 725 1920 1080 1;00:00:01.360=0 130 1920 1080 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter33" out="00:00:19.640">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:16.680=1;00:00:17.280=0;00:00:17.480=0;00:00:19.640=0</property>
+      <property name="opacity">00:00:16.680=1;00:00:17.280=0;00:00:17.480=0;00:00:19.640=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">TWO_DAYS</property>
+    <blank length="00:00:11.120"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:19.640"/>
+  </playlist>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter34" out="00:00:19.640">
+      <property name="argument">made using:
+LayerPaint Android 4
+GIMP 2.8
+IrfanView 4.54
+Inkscape 0.92
+OpenToonz 1.1.3-morevna
+Shotcut 20.06.28
+Opera 89.0.4447
+Win 10 x86  2016 by LeX_600 
+THANK YOU LeX_600!!!
+ (any other winX won't work)
+Lenovo ideapad s10-2</property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+    <filter id="filter35" out="00:00:19.640">
+      <property name="argument">
+
+
+
+
+
+
+
+
+
+
+
+
+ENORMOUSLY GRATEFUL to ALL DEVS!!!
+and USERS who ask and share tips</property>
+      <property name="geometry">5 364 1925 689 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff0000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaff6a6a</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+    <filter id="filter36" out="00:00:19.640">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 725 1920 1080 1;00:00:02.480=0 -360 1920 1080 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter37" out="00:00:19.640">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:17.680=1;00:00:19.640=0</property>
+      <property name="opacity">00:00:17.680=1;00:00:19.640=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist4">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">DEVS_THANK</property>
+    <blank length="00:00:08.280"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:19.640"/>
+  </playlist>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter38" out="00:00:19.640">
+      <property name="argument">    
+ 
+
+                                
+                                       programmer(low skilled), illustrator-sketcher
+                                 gamedev(wannabe), crafter, cameraman
+                          oneman studi  proj-idea production</property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00ffffff</property>
+      <property name="olcolour">#91ff7866</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">26</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">36</property>
+    </filter>
+    <filter id="filter39" out="00:00:19.640">
+      <property name="argument">X-P hardworker &amp; selftaught
+                     creator, author, director, modder,
+             designer, story-script writer,
+                                    vfxartist(not pro), music creator, animator
+
+
+</property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00ffffff</property>
+      <property name="olcolour">#91ff7866</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">26</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">36</property>
+    </filter>
+    <filter id="filter40" out="00:00:19.640">
+      <property name="argument">    
+ 
+
+                                
+                                       programmer(low skilled), illustrator-sketcher
+                                 gamedev(wannabe), crafter, cameraman
+                          oneman studi  proj-idea production</property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00ffffff</property>
+      <property name="olcolour">#91ff7866</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">26</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">36</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter41" out="00:00:19.640">
+      <property name="argument">X-P hardworker &amp; selftaught
+                     creator, author, director, modder,
+             designer, story-script writer,
+                                    vfxartist(not pro), music creator, animator
+
+
+</property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00ffffff</property>
+      <property name="olcolour">#91ff7866</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">26</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">36</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter42" out="00:00:19.640">
+      <property name="argument">    
+ 
+
+                                
+                                       programmer(low skilled), illustrator-sketcher
+                                 gamedev(wannabe), crafter, cameraman
+                          oneman studi  proj-idea production</property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00ffffff</property>
+      <property name="olcolour">#91ff7866</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">26</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">36</property>
+    </filter>
+    <filter id="filter43" out="00:00:19.640">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:05.080=0;00:00:05.640=1</property>
+      <property name="opacity">00:00:05.080=0;00:00:05.640=1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter44" out="00:00:19.640">
+      <property name="argument">X-P hardworker &amp; selftaught
+                     creator, author, director, modder,
+             designer, story-script writer,
+                                    vfxartist(not pro), music creator, animator
+
+
+</property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00ffffff</property>
+      <property name="olcolour">#2dff7866</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">26</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">36</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter45" out="00:00:19.640">
+      <property name="argument">X-P hardworker &amp; selftaught
+                     creator, author, director, modder,
+             designer, story-script writer,
+                                    vfxartist(not pro), music creator, animator
+
+
+</property>
+      <property name="geometry">5 364 1915 601 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">48</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00ffffff</property>
+      <property name="olcolour">#91ff7866</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">26</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">36</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter46" out="00:00:19.640">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:03.520=0;00:00:04.560=1;00:00:16.800=1;00:00:18.680=0</property>
+      <property name="opacity">00:00:03.520=0;00:00:04.560=1;00:00:16.800=1;00:00:18.680=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter47" out="00:00:19.640">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 725 1920 1080 1;00:00:02.480=0 -360 1920 1080 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter48" out="00:00:19.640">
+      <property name="argument">
+
+
+
+
+
+
+
+
+
+
+
+
+ENORMOUSLY GREATFULL to ALL DEVS!!!
+and USERS who ask and share tips</property>
+      <property name="geometry">5 364 1925 689 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff0000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaff6a6a</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter49" out="00:00:19.640">
+      <property name="argument">ENORMOUSLY GREATFULL to ALL DEVS!!!
+and USERS who ask and share tips</property>
+      <property name="geometry">0 521 492 559 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">540</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter50" out="00:00:19.640">
+      <property name="argument">
+
+
+
+
+
+
+
+
+
+
+
+
+ENORMOUSLY GREATFULL to ALL DEVS!!!
+and USERS who ask and share tips</property>
+      <property name="geometry">5 364 1925 689 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff0000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaff6a6a</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter51" out="00:00:19.640">
+      <property name="argument">
+
+
+
+
+
+
+
+
+
+
+
+
+ENORMOUSLY GREATFULL to ALL DEVS!!!
+and USERS who ask and share tips</property>
+      <property name="geometry">5 364 1925 689 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff0000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaff6a6a</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter52" out="00:00:19.640">
+      <property name="argument">ENORMOUSLY GREATFULL to ALL DEVS!!!
+and USERS who ask and share tips</property>
+      <property name="geometry">0 521 492 559 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">540</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">1</property>
+    </filter>
+  </producer>
+  <playlist id="playlist5">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">X-Pstuff</property>
+    <blank length="00:00:24.000"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:19.640"/>
+  </playlist>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter53" out="00:00:13.080">
+      <property name="argument">
+!!!!EXTREAMLY IN SEARCH of AUDIENCE, 
+support For HIS original PROJECTS
+and employment for skill set and interests</property>
+      <property name="geometry">107 600 1735 504 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff0000</property>
+      <property name="bgcolour">#d6ffffff</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+    <filter id="filter54" out="00:00:13.080">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:01.240=1;00:00:10.520=1;00:00:12.680=0</property>
+      <property name="opacity">00:00:00.000=0;00:00:01.240=1;00:00:10.520=1;00:00:12.680=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter55" out="00:00:13.080">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.invert_scale">1</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">00:00:00.120=3;00:00:01.520=1;00:00:02.040=1</property>
+      <property name="transition.scale_y">00:00:00.120=3;00:00:01.520=1;00:00:02.040=1</property>
+      <property name="transition.ox">00:00:00.000|=0;00:00:00.120=-700;00:00:01.520=-0;00:00:02.040=0</property>
+      <property name="transition.oy">00:00:00.000|=0;00:00:00.120=-20;00:00:01.520=-0;00:00:02.040=0</property>
+      <property name="transition.threads">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist6">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">!!EXTREAM</property>
+    <blank length="00:00:30.560"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:13.080"/>
+  </playlist>
+  <producer id="producer24" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FF000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FF000000</property>
+    <property name="shotcut:detail">#FF000000</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter56" out="00:00:03.960">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=1;00:00:00.560=0.958825;00:00:01.080=0.82;00:00:01.360=1;00:00:01.400=0.44;00:00:01.600=0;00:00:01.720=0.28;00:00:01.880=0.01;00:00:02.120=0.42;00:00:02.200=0.25;00:00:02.280=1;00:00:02.520=0;00:00:02.640=0.48;00:00:02.720=0.77;00:00:03.040=0.1;00:00:03.960=0</property>
+      <property name="opacity">00:00:00.000=1;00:00:00.560=0.958825;00:00:01.080=0.82;00:00:01.360=1;00:00:01.400=0.44;00:00:01.600=0;00:00:01.720=0.28;00:00:01.880=0.01;00:00:02.120=0.42;00:00:02.200=0.25;00:00:02.280=1;00:00:02.520=0;00:00:02.640=0.48;00:00:02.720=0.77;00:00:03.040=0.1;00:00:03.960=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter57" out="00:00:04.920">
+      <property name="argument">List of PROJECTS in description</property>
+      <property name="geometry">00:00:00.000=-5 -265 1920 270 1;00:00:00.720=-5 26 1920 270 1;00:00:01.040=-5 26 1920 270 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#caababab</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">1</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter58" out="00:00:04.920">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:04.160=1;00:00:04.920=0</property>
+      <property name="opacity">00:00:04.160=1;00:00:04.920=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FFD00000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FFD00000</property>
+    <property name="shotcut:detail">#FFD00000</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter59" out="00:00:03.960">
+      <property name="filter">frei0r.alphaspot</property>
+      <property name="mlt_service">mask_start</property>
+      <property name="shotcut:filter">maskSimpleShape</property>
+      <property name="filter.9">0</property>
+      <property name="filter.0">0.333333</property>
+      <property name="filter.1">00:00:00.000=0.5;00:00:00.600=0.511209;00:00:00.840=0.5113</property>
+      <property name="filter.2">00:00:00.000=0.5;00:00:00.240=0.5001;00:00:00.840=0.5002</property>
+      <property name="filter.3">00:00:00.000=0.1;00:00:00.240=0.100101;00:00:00.840=0.100201;00:00:01.320=1</property>
+      <property name="filter.4">00:00:00.000=0.1;00:00:00.240=0.100101;00:00:00.840=0.100201;00:00:01.320=1</property>
+      <property name="filter.5">0.5</property>
+      <property name="filter.6">0.8266</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter60" out="00:00:03.960">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.920=1;00:00:01.560=1;00:00:01.680=0.32;00:00:03.040=1</property>
+      <property name="opacity">00:00:00.000=0;00:00:00.920=1;00:00:01.560=1;00:00:01.680=0.32;00:00:03.040=1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter61" out="00:00:03.960">
+      <property name="maxdiameter">21</property>
+      <property name="maxcount">50</property>
+      <property name="mlt_service">dust</property>
+      <property name="cache-dy-3-12">28</property>
+      <property name="cache-dy-0-12">10</property>
+      <property name="cache-dy-4-12">18</property>
+      <property name="cache-dy-3-185">435</property>
+      <property name="cache-dy-0-185">167</property>
+      <property name="cache-dy-4-185">285</property>
+      <property name="cache-dy-1-185">245</property>
+      <property name="cache-dy-2-185">112</property>
+      <property name="cache-dy-3-268">630</property>
+      <property name="cache-dy-0-268">242</property>
+      <property name="cache-dy-4-268">412</property>
+      <property name="cache-dy-1-268">355</property>
+      <property name="cache-dy-2-268">163</property>
+      <property name="cache-dy-3-134">315</property>
+      <property name="cache-dy-0-134">121</property>
+      <property name="cache-dy-4-134">206</property>
+      <property name="cache-dy-1-134">177</property>
+      <property name="cache-dy-2-134">81</property>
+    </filter>
+    <filter id="filter62" out="00:00:03.960">
+      <property name="version">1</property>
+      <property name="mlt_service">frei0r.pixeliz0r</property>
+      <property name="0">0.178</property>
+      <property name="1">0.05</property>
+    </filter>
+    <filter id="filter63" out="00:00:03.960">
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.distort0r</property>
+      <property name="0">0.7</property>
+      <property name="1">0.112</property>
+      <property name="2">1</property>
+      <property name="3">0.5</property>
+    </filter>
+    <filter id="filter64" out="00:00:03.960">
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.dither</property>
+      <property name="shotcut:filter">dither</property>
+      <property name="0">0.174</property>
+      <property name="1">0</property>
+    </filter>
+    <filter id="filter65" out="00:00:03.960">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_gaussian</property>
+      <property name="1">0.99</property>
+      <property name="0">0.81</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter66" out="00:00:03.960">
+      <property name="version">0.2</property>
+      <property name="mlt_service">frei0r.IIRblur</property>
+      <property name="shotcut:filter">blur_lowpass</property>
+      <property name="1">0.5</property>
+      <property name="0">0.821</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter67" out="00:00:03.960">
+      <property name="mlt_service">avfilter.noise</property>
+      <property name="shotcut:filter">noise_fast</property>
+      <property name="av.all_flags">a+t</property>
+      <property name="av.all_strength">62.4</property>
+    </filter>
+    <filter id="filter68" out="00:00:03.960">
+      <property name="start">1</property>
+      <property name="level">00:00:00.160=1.13333;00:00:00.920=1;00:00:01.440=0.611;00:00:02.320=1;00:00:02.840=0.511;00:00:03.360=0.573333;00:00:03.960=0;00:00:04.000=</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter69" out="00:00:03.960">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.invert_scale">1</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">00:00:01.160=1;00:00:01.520=4.788;00:00:02.280=1</property>
+      <property name="transition.scale_y">00:00:01.160=1;00:00:01.520=4.788;00:00:02.280=1</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter70" out="00:00:03.960">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:03.200=1;00:00:03.960=0</property>
+      <property name="opacity">00:00:03.200=1;00:00:03.960=0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist7">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">FadeInOUT</property>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:03.960"/>
+    <blank length="00:00:39.400"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:00:04.920"/>
+    <blank length="00:00:01.080"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="producer27" in="00:00:00.000" out="00:03:14.640">
+    <property name="length">00:03:14.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Source/audio/X-POWER - WolvHUG7.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2022-08-22T19:17:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">373984fe0fe5cb1c2e7ba79acb9ce2ec</property>
+    <property name="shotcut:caption">X-POWER - WolvHUG7.wav</property>
+    <filter id="filter71" out="00:00:53.400">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-70;00:00:00.320=-11.6;00:00:53.000=-11.6;00:00:53.440=-70</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist8">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="producer27" in="00:00:00.000" out="00:00:53.400"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 20.06.28" global_feed="1" in="00:00:00.000" out="00:00:53.400">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">0.246768</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <track producer="playlist2"/>
+    <track producer="playlist3"/>
+    <track producer="playlist4"/>
+    <track producer="playlist5"/>
+    <track producer="playlist6"/>
+    <track producer="playlist7"/>
+    <track producer="playlist8" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">1</property>
+      <property name="b_track">4</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">1</property>
+      <property name="b_track">5</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">0</property>
+      <property name="b_track">6</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition9">
+      <property name="a_track">1</property>
+      <property name="b_track">6</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition10">
+      <property name="a_track">0</property>
+      <property name="b_track">7</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition11">
+      <property name="a_track">1</property>
+      <property name="b_track">7</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition12">
+      <property name="a_track">0</property>
+      <property name="b_track">8</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition13">
+      <property name="a_track">1</property>
+      <property name="b_track">8</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition14">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition15">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition16">
+      <property name="a_track">0</property>
+      <property name="b_track">9</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <filter id="filter72" out="00:00:53.400">
+      <property name="start">1</property>
+      <property name="level">1.032</property>
+      <property name="mlt_service">brightness</property>
+    </filter>
+    <filter id="filter73" out="00:00:53.400">
+      <property name="lift_r">1.5259e-005</property>
+      <property name="lift_g">-0.133989</property>
+      <property name="lift_b">-0.00801099</property>
+      <property name="gamma_r">0.843</property>
+      <property name="gamma_g">1.00002</property>
+      <property name="gamma_b">0.90901</property>
+      <property name="gain_r">1</property>
+      <property name="gain_g">1</property>
+      <property name="gain_b">1</property>
+      <property name="mlt_service">lift_gamma_gain</property>
+    </filter>
+    <filter id="filter74" out="00:00:53.400">
+      <property name="lift_r">0</property>
+      <property name="lift_g">0</property>
+      <property name="lift_b">0</property>
+      <property name="gamma_r">0.906</property>
+      <property name="gamma_g">0.906</property>
+      <property name="gamma_b">0.906</property>
+      <property name="gain_r">1.094</property>
+      <property name="gain_g">1.094</property>
+      <property name="gain_b">1.094</property>
+      <property name="mlt_service">lift_gamma_gain</property>
+      <property name="shotcut:filter">contrast</property>
+    </filter>
+  </tractor>
+</mlt>
