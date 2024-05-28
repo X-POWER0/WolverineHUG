@@ -218,6 +218,7 @@ https://bit.ly/3KqyLKN <br>
 FLAmingo <br>
 https://www.youtube.com/watch?v=xcemZnPgT1k <br>
  <br>
+ 
 -----------------------------------------------------
 -inPROGRESS
 -----------------------------------------------------
@@ -301,5 +302,5 @@ to reach REAL LIFE, OWN control, Strong Identity, Understanding of systems, <br>
 Acknowledging true CORE, Discovering/uncovering substance(matter), <br>
 true meaning of things, actions, ways, PURE TRUTH, CLEAR VIEW on right and <br>
 wrong,  TRUE feelings, break endless play - GAME OF LIFE. <br>
-
+---------------------------------------------------------------------------
  
