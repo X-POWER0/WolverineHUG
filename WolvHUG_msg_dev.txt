@@ -1,0 +1,998 @@
+Add spotlight texture under player with add
+add red spot texture circle under player(red-pink glowing, fehered edge)(its all to replicate effect of light in windows XP and others)
+-BUG Check how to disable blur in windows XP and build wihout not working effects
+(create list to build Setting for Low END PC and still look as it intended)
+-BUG make ui resizable so it fit resizale window and all in right places
+Make exit menu switchable on escape IN MENU and in gameplay at Gameplay Menu on Escape.
+Switch beatwean menu with arrows, Enter choose
+Backspase back meanu button
+
+
+push guys when hit
+
+Make GameOver Scen and Restart button to just Restart WlvHug scen and simply continue to play
+
+guys when hit not close hug guys fly away. collided. and whn killed dissapere. oor ragdoll.
+when you hug and haven't reahed spot loose health.
+
+make stop huging no continuous loop might by adding new animation
+
+
+
+set right links in complted
+and make in Dev
+
+
+Add GameObject in Front and 
+On Button H 
+set it's collision ON 
+and make dammage to Guys
+Might add some delay by invoke
+
+And Push Force Apply
+
+and the same way
+Another Game object
+Closer
+and if it will  be colided
+Set Pos of Guy 
+to huging Pose and Parent Him to 
+Hugger, freez hugger animation
+Till He dies
+
+Add might Run From Huger When See Him(View on Him and or When He Runs, Run Not for long and Stop, and Start run With delay)
+(Run on Collide and attack by hugger)
+
+Damage with anim
+PuSH by anim
+HUG hold npc
+Die Npc
+Make Respawn
+Timer
+Highscore
+When Reach highScore reached i Game Lights Text 
+!!!!HIGHSCORE!!!
+You Are Awessome   
+- in nice light opacity and slightly animates
+GameOVER SCreen with animated Huger SAD Huger Darktone and Words,   Show Your and Highscore,    ability - RePlay Restart Exit.
+WIN HIGSCORE Screen - !!!COnGrats!!! Anim HapY Hugger With flying Hearts Text, ability - RePlay Restart Exit. 
+ADD music On Off and Volume
+
+
+
+
+
+Mods for hug bring in famous chracters.
+and move to ATTT prototype from WolvHUG. By making camera back normal size and else
+Size of char and slowly re import needed. ExampleProject
+
+Mods
+Yoda hug Droids
+Dartvaider Hug clones
+Turtles TMNT hug ninjaas
+
+itchio
+http://bit.ly/3Rbm2Om
+
+https://paom.com/search?type=vendor&q=x-power+tag:public
+
+https://my-store-d0ac3d.creator-spring.com/
+
+https://patreon.com/x_power_art
+
+
+delet Ot wo projects Wolv foOt workbench
+chek github limits and upload files
+
+Write good readme 
+For projrct files and for each project but short.
+--Starthaxe game.
+Links for each project saparetly Upload
+on gitHub all 
+
+export inkscape Full outline and color as png
+Jaws and eyes sapareted
+and text tabl and text Hang
+To GIMP
+Ad Shadow and Blur Shadow
+Then Turn it to psd
+Add Layer paint file from phone
+
+
+Make gif animations WolverineHUG and post
+
+52mlt
+shotcu poject
+gimp
+psd
+inkscape plain svg created from import of parts used for OT
+with named and normaly collect files without not needed.
+Chek color
+Export vector image from OT
+render image of basic sketch in high quality jpg, png, svg
+ender final image in high quality jpg, png, svg
+start work on 3d and HAXE version
+
+
+
+ADD to Wolv OT project b X-P and links and some description on use
+
+
+Post WolvHUG on forum in projects. with all futue updates. ad delet from downoads
+
+
+
+comix haxe 3d unity animation hel of a posting time
+stoks and markets game and other forums Itchio
+game on android
+
+ver of 2d
+ver1
+at first darknes and talk questions, appear Wolv propose to hug Choices
+run, ways to escape in comics style, continue escaping
+Main happening Wolv follows/chace and time from time says something
+Like in comics
+can invastigate some locations trying to escape
+ver2
+Basic. Just darknes and deffense Yourself from Wolv trying to hug You
+hit or run, with physics for more fun
+
+pages of comics, links to other projects migt their images.
+
+And different funny Phrases
+
+Unity game might You are Wolverine HUGER and hug other wolverines, some try to escape some try o hug you
+some have more lifes and need more times to be hugged, whe feel lose of helth
+trying to run fom you. Can use lie heat packs like you so who is faster wins.
+Sligt regain of health add so if You runn long health back, but others Wolvs to have such abilit.
+
+Make arcade by tutorial
+Where said make in one hour and change art and rules 
+Wolvs fly at you and you hit them off. Count and speed increse
+
+Then 3d model
+Import in Unity
+Make menu
+Run
+Hug
+make small dark room with one light source.
+Make spawn npcs
+Make life auto decrease and go faster
+When hug life regenerates
+Show SCORE on death (you hug to slow, hug yourself last time)
+
+and then back to novel
+in it
+Darkness on start
+You are alone
+no support
+You need someone to hug You
+You hear scrating
+Now be Glad! Youre not alone in this DARKNESS
+Then ask
+scratcher Ignors
+ability to look around( by select ui button click) left, right select to move 
+You find flashlight
+Light
+on your light To YOU Runs Wolverine
+and say's Let me HUG You
+You have options 
+-NO
+You need support aren;t you
+You have options 
+-Yes(you'll die)
+-Yes.Yes, wait a momment
+he cames closer and closer
+You move backwards and happen to touch door handle
+Wolv grabs You
+You have option to HIT
+and run away through door, and blocks it
+Wolv scratching
+Wolv:You NEED my HUGS
+Wolv:everybody NEEDs a HUuuuuUUG
+Wolv:let me HUG YOU!
+options - Go Back  options- can get Hugs,(will die) - Hug Wolv By Yourself
+options - Thank you I rather Stay Alive.
+and some other options (talk)
+- RIGHT choices were good
+in end can open Door and
+He sadly will go away, searching for someone else
+Asking Wolv: I U shure!? Don't want a HUG?
+options - ignore. - refuse - funny phrases - yes - I want HUG(die)
+- WRONG choices on talk
+Wolv closed and cry about Hugs(Scratching door)
+Wolv angry breaks door and Runs to Hug
+- OTHER choices on talk
+Wolv closed and naging and cry about Hugs(not scratching door). You walk away.
+- OTHER1 choices on talk
+Wolv closed and naging and cry about Hugs(not scratching door)
+then disapear
+looks around
+UnexPectedly something BEHIND YOUR BACK
+looking there 
+Its Bonus That brings LIGHT and SUPPORT into all and  for ALL YOUR life.
+- WRONG1 choices on talk
+Wolv closed and naging and cry about Hugs(not scratching door)
+then disapear
+You walks inside 
+something strange.
+Message You Read it
+Wolv BACK "I KNEW YOU WANNA A HUG"
+- UNIQ choices on talk
+Wolv closed and naging and cry about Hugs(not scratching door)
+THen crys with YOUR voice,  I NEED SUPPORT. EXTRIEMLY NEED SUPPORT
+Wolv(Dude): It's so hard. I want to do something but nothing works.
+-- options - ....walk away  
+- move in and Support Dude
+Some talk
+-  CHOICES on talk
+You became Wolv and HUG him to DETH.
+Then go to find another one To HUG. U NEED MORE MORE HUGS
+turn FACE to Screen 
+and closer 
+closer 
+"I KNOW YOU TOO WANT A WOLVERINE HUG" 
+-  CHOICES1 on talk
+takes Dude with You and get out to LIGHT to FUTURE
+
+
+  check tags of fist Wolverine HUG post on deviant art and save in file
+to chek if they will boost views next time.
+post
+files WolverineHUG
+Start Haxe project game
+
+feature of games few generic levels then endless like but after 20 000 you will win
+but can continue if you want from start with the same score or this 20 000 again.
+
+Add button I you want win click this way You'll winn.
+
+Haxe or unity game might for rewards adds to see.
+
+
+Color corection for haxel and for Unity game on top of gae play
+Better dnamic with flashing
+
+Haxe add after Menustate Gameplay description.
+Try to estro as many as You can Bad words.
+An stay Out of WolverineHUGER, lets se how many You'll be able to Destroy and How ong
+You'll survive.
+Then description of gamplay button exist ass switchable pop up in Playstate. ass buton on the left
+
+Unity game.Menu Desciption. About projectS. Description.
+Hug as menu as You can Needing Suport HUG TARGETS. for this time.
+Sets timer.
+https://www.youtube.com/watch?v=B0ctkshwQX4
+https://www.youtube.com/watch?v=ogz-3r0EHKM
+https://www.youtube.com/watch?v=ocLZNRasU64
+
+
+
+Ability to run and hug.
+Run faaster and jum to.
+Room and random spawning an moving out of You to walls and back Hug targets
+(or easier just spawning and staying on the ame spot, but for awhile and desapeare)
+when huger hugs soud and blood particle.
+Clicks score. End his Eyes Big And Scor. down suport Project. Link to WOlveine hug
+Page and text wit all projects. 
+Replay. Exit
+
+3D Model Unity Game
+slight cleaning And ost aplpha game on Itchio.
+MOSTLY add Hit and Kill and Respawn of briks. And Make Hugger runn after You
+
+50% of donattions wil go to Devs comunitys of freesoftware and  tutorials makers wich work I used
+
+
+
+Arcade
+We need to bit off going on You Wolvs before they hug you.
+
+.Might make C# version to by tutorial with zombies.
+
+---Polish and finish Unity alpha.
+HaxeFlixel beta - might short videos with thenm.
+gather and upload files of project.
+start crediting.
+
+
+
+Wolv message in shops
+patreon. new comics page
+Oter plsces for posts.
+
+post mus WOLV in proDJ
+
+POSt unity ver in ithio and saw what the promote way link was
+
+
+akke buuton a build
+then some gameplay score and delet
+
+
+MAke Menu 
+with start info
+Gaameplay story info
+and suport links About Project
+olorcorection.
+Ability To run and kill Yellow guys. Or different color
+or black an white.
+guys run and respawn. kiling gives score.
+Abilit to run like one of this guys till he kills You - sore for time surviving.
+End screen with restart and go to projects Suport.
+Post Processing. Add Music. Voice scary Of Huger and 
+gunny cryin of small uys. while running and die.
+Postprocesin contraslight and all the cool cstuff.
+Funnny squishing sound of ug
+Guys or Die Instuntly or frozen fo a while. Till squished.
+Hug that don't catch harm. Hand can Kill. Hug That catched Hugs till all health gone - o use time.
+So try to logicly calculate wha better for your score.
+
+Game on time or endless.
+
+
+
+
+Screen closer  Wolv
+Then anim Eyes in Start2
+
+text about whats Wolverine HUG.
+images with Guys STORY
+
+project links and images.
+on Quite go to Last End Highscore screen ADD button Quite UNDER PLAY AGAIN,
+and in Escape menu. and then again And It's Final Quite.
+  
+Add menu. Getback and Exit to wolvHug Scen. On escape. 
+Ask escape to menu or quite game.
+Add screenshot function.
+BUILD.
+Add kiling guys with Hug, or atleast colision.
+Random spawn respawn guys. runing around guys.
+Score count. ThATS
+
+First BUILD ALPHA
+
+
+switch of Wolv model visibility.
+(zoom camera.)
+
+
+
+ 
+
+
+
+X-POWER !!!EXTREAMLY IN SEARCH of AUDIENCE
+and support
+to share HIS original PROJECTS
+and find employment for skill set and interests
+
+Completed Projects. PROJECTS in DEVELOPMENT
+
+WOLVERINE HUG  is a MESSAGE, test
+to get own Projects more discoverable
+and push limits.
+Main Forum Thread of WOLVERINE HUG
+
+"WolverineHUG" (phrase meaning) - noone cares, noone will see what You do, noone will support You,
+You won't acomplishe anything, and nothing left here for You...
+only warm, sharp, friendly, Deadly Wolverine Hugs a waits You.
+
+in 13 DAYS without food almost to no sleep by one person performing such test 
+(with poor hardware)
+
+Completed: 
+---Idea, Drawing sketch, Vector image,  
+----Story, Short Animation video, Melody (2DAYS with nights)
+-----4 page Comics, 2D, 3D Game prototypes (10DAYS mostly with nights)
+All using only free software.
+
+(Completing  of more usable versions of games takes more time
+do to luck of knowledge, expirience, poor hardware.)
+
+It's a stubborn, strugle project to make, spread and transfer message in different forms
+without any distuctions, no sleep, no eat, no dancing...
+---Idea born from reaching end of resources and supply to support self maintance,
+undefiable willing - want to continue work no mattare what happens.
+and still Complete own chosen tasks.
+CHECK INFO on HOW IT WAS DONE.
+
+With HIGH hopes and minimal expactaions 
+that it will lead, to improvement of projects promotion, distribution,
+reach interested audience, for further collaboration and wider production.
+Stabilizing life staite, and finding resources, funds for self and projects managment.
+
+Chosen forms of MESSAGE to fullfil project and make it complete and variative:
+Idea, Drawing, Story, Melody, Animation, Comics, Games.
+(...some of forms more or less familiar to X-POWER but highly interested in all, 
+so up to challange.)
+
+X-P hardworker & selftaught 
+creator, author, director, modder, 
+designer, story-script writer,
+vfxartist(not pro), music creator, animator,
+programmer(low skilled), illustrator-sketcher,
+gamedev(wannabe), crafter, cameraman,
+oneman studio project-idea production
+
+Interested in employment
+To Progress in production, managment, project managment, timemanagment, efficiency, marketing, 
+project presentation, complete projects faster,  social advertisement, copywriting, monetizing
+3d, conceptart, vfxart, scripwriting, gamedevelopment, programming.
+
+!!!!!!!!!!!!!!
+Posts and Project MEASSAGE haven't found any interest
+Failed in promotion and destribution. 
+funding, employment, discoverability - but Completed.
+!!!!!!!!!!!!!!
+
+will patch up game versions 
+complete in few more forms(mostly game versions FPS, Novel, Platformer)
+repost and releas materials of project opensource for free use 
+on GitHub and other platforms.
+
+
+...continue to work on main projects
+and searching for ways to support them and find audience.
+
+
+
+HOW WORK was DONE 
+process of project creation
+
+TWO days with nights
+  to COMPLETE
+ this from scratch
+
+
+!!!ENORMOUSLY GRATEFUL to ALL DEVS!!!
+and USERS who ask and share tips
+
+
+Software - 
+
+OS -
+WinXP,  WinX
+
+Hardware -
+Lenovo ideapad s10-2 
+(x86 only, no OpenGL, can't FullHD, 
+dead line of pixels, program window can't fit screen size,
+ cooling problems, 
+!!BUT handeld to WORK 
+in such cruel use scenarios,
+ 
+awfull perfomence for such tasks, 
+!!!BUT been able to push through)
+                           
+  
+
+TWO days with nights
+  to COMPLETE
+Video from scratch
+
+Haven't slept, haven't ate and lose focus for all the time
+ACTUALY:
+haven't ate anything      - all these days, 
+drank water while renders - 3 times, 
+slept ones while render   - from 6am till 10am at first day.
+Versions of project files - 81+ >.
+Failed renders            - 30+ > (estimated).
+Wonder off out of work    - none times.
+--Had to check render files while rendering proces, render parts, 
+were bugs and unexpected results, had to check every frame of render process 
+to save time and stop bad renders)
+
+
+KMPlayer 3.0.0.1439 
+(other players can't render FullHD at all on his machine, KMP sound out of sync and video 2 times slower)
+Virtualdub(synced sound but lags video and sound) 
+Avidemux 2.7.4.5 (lugs but close to KMP result while able to preview even 4k.)
+
+Netbook couldn't render boxblur - had to settle for low pass, qmlt just died on render start.
+Wich lead to searching what breaks project render.
+ 
+Render problems, Preview too slow couldn't figure out Actual spead of effects, 
+Faild to render full, had to render to img sequence,
+then render by parts, then by layers with, without effects,
+then full together but by parts. And final render.
+
+Last Complete render finished on 7:37 of third day, cleaning work till 8:30 
+going to sleep now.
+
+-WAKE UP 10:30
+work on post
+ 
+WANT TO WORK AND COMPLETE MORE PROJECTS!!!
+ 
+-----------------------------------------------------
+Slept 6-10 hours after video.  and To next Part of PROJECT.
+                
+
+THREE days with nights
+  to COMPLETE
+Comics, 2D Game
+(concept, prototype)
+
+Slept 6-10 hours after video. 
+Then Haven't slept again.
+Still haven't ate anything.
+
+Started work on 4 page Comics and expressed in it some laughter and project sense. 
+Write idea of every page in txt 
+then With Help of Gimp and prerendered video screens from Shotcut, 
+and use of Inkscape vector images made earlier, exports of parts in png.
+Complete Panels.
+---Few times lights went off and dead battery showed it's pleasence.
+(Lost and recovered one page)
+OUT of space o ssd and Memory, buged, laged, and failed all few dozen times.
+
+
+Started from to writing concept for 2d game.
+First happened write Novel,
+but to much details to complete and prototype in few days.(for later)
+Next arkanoid with  gameplay connected to project MESSAGE sense. 
+
+Concept:
+
+Blocks of Bad words like
+"CAN'T" "YOU LOSE" and etc. 
+Spawns and Push Character down Till he is pressed to wall(spikes) start lose health till Die.
+
+Player should avoid or destroy them.
+Destroying them regain health and gives score.  
+
+Wolverine wanders, pushes words on player, scale them and regenerate their health. And if collide with player will hug to death or harm.
+
+
+Main Goal of Game to survive as long as You can and Gain Highest score.
+
+Counts Time, Destroyd words, collisions with Wolverine.
+
+Completed art in Gimp. Started research of tutorials that suit idea. Then work in HaxeFlixel, Till got most of process codes prototyped. 
+
+Made post of alpha on Itchio
+-Game needs more work now it's mostly a skeleton and statement of it's eexistance with ability to test out.
+
+-wich SUITS main purpoes
+
+
+
+...Fall a sleep 4 hours, drank some water and Continued to 3D version...
+
+EIGHT days mostly with nights
+  to COMPLETE
+ 3D Unity game prototype
+
+Slept some times for few hours in the morning, three days didn't slept straight, still haven't ate anyhing.
+
+Started with writing down 3D game concept for Unity version.
+
+Player control Wolverine 
+Who want to HUG all the sad creatores(HUGtargets). 
+
+You have to Hug as much as You can till time ends.
+(write down a lot of additional FETURES,  to make IF PROJECT gain interest)
+
+From the start decided to use/mod amazing "Standard Asset Example Projects" to make fast prototype.
+Downloaded instaled.
+Made copy Rename Project to Wolverine HUG and start deleting not needed.
+
+Searched for 3D modeling tutorial for Blender. I used Blender but actualy haven't made own fully rigged model ttill this Time.
+
+3D version of HUGtarget 
+was complet in 4hours+ 
+hardware was not willing to work fast and luck of expirience.
+
+For 3D Wolverine 
+decided to have another aproach, wanted more close to drawing
+needed to creat fast and don't lose 2D drawing details. 
+
+Tryed converting vector sketch and modeling from that.
+Had problems and mistakes -
+Completed in 18 hours
+
+(hardware slow and few times crashed project, aditionaly not active process of modeling and fixing bugs made head switch off all the time for few minutes)
+
+HAving not fully 3D more cartoonish Wolverine(effect that was desireable) NEEDed time to figureout way to creat,  2D to 3D with still Look like 2D
+
+EXAMPLE: Mouth and eyes not to be spheres, be flat but with depth.
+And outline wich, Diched in the end.
+
+Import in to Unity
+Used great tool Rigify for Blender
+and saw how it's usefull
+Tryed, but it was not what I wanted 
+at this situation, Lost almost Day
+Finaly digged Out on My forum
+Post of my last Modding expirience
+In Blender and the way to Add
+Unrigged model to rigged and replace it
+Exported Eathan from Unity Standard Assets
+and imported in Blender with errors
+Helped answer on Unity forum
+Reimported Flawlesly
+Replaced Ethan with Wolverine
+and replaced Ethan with Hug Target.
+Imported in Unity and had first test run.
+Edited skeleton for Wolverine many times.
+Editing of camera to Look write.
+Deletated map and created own box.
+Realy liked look of rose boxes so Added them to story. They blend Nicely.
+And planed in future be the way points and spawn points and places for HUGtargets to wine nicely.
+Edited slightly form to look better.
+Worked on Materials and posteffects to see finaly desireable image.
+Atmosphere, wanted darkness and harder to see HUGtargets(in future they should disapere for YOU to search for them)
+Worked on additionat top Camera without satisfyied effect.
+Made HUG animation in blender. Made sit and run out Animation in Blender 
+Worked on cuting fat of idea to complete some main gameplay parts.
+Having a lmost none knowladge with Unity and working on old version,
+all the time poped out problems and methods of solving them wasn't easy to find
+Example scen loading changed in unity 5.3. All tutorials on scen loading was usless. 
+Lost half a day.
+Tryed to figureout and find easy wandering script for HUGtargets.
+Problems with adding animation on button press.
+Munu and UI had the most fun, almost 1,5 days woked to make menu UI button work, and in the END
+Project just couldn't work right and it's why nothing worked. Had to make Menu in different
+Project. Remake first project and import completed menu.
+Finaly Made draft of Game You Have Start End And You can ran Around  been Wolverine
+and Bash into bubled coliding HUGtargets.
+Started building And It was a FAILL.
+Game didn't start.
+Then evantualy was build and it still didn't start but, tested it in WinX and
+YEAH!!!!! it lags and looks like slideshow but it works!!!
+
+Day 14 morning 
+haven't Slept, ate, and concentrate on anythig then this project.
+
+AND IN FINALE
+13 DAYS without food almost to no sleep by one person performing such test 
+(with poor hardware)
+
+Completed: 
+---Idea, Drawing sketch, Vector image,  
+----Story, Short Animation video, Melody (2DAYS with nights)
+-----4 page Comics, 2D Game prototype (3DAYS with nights)
+-------3D Game prototypes (8DAYS mostly with nights)
+All using only free software.
+
+(Completing  of more usable versions of games takes more time
+do to luck of knowledge, expirience, poor hardware.)
+
+POSTs time from time to social and websites trying to engage audience and 
+make project seen.
+
+END OF MAIN PART of PROJECT
+
+COMPLETED
+-but
+
+!!!!!!!!!!!!!!
+Posts and Project MEASSAGE haven't found any interest
+Failed in promotion and destribution. 
+funding, employment, discoverability - but COMPLETED.
+!!!!!!!!!!!!!!
+
+will patch up game versions 
+complete in few more forms(mostly game versions FPS, Novel, Platformer)
+repost and releas materials of project opensource for free use 
+on GitHub and other platforms.
+
+
+AFTER WORK on PROJECT "WOLVERINE HUG"
+
+
+Compeleting this text.
+
+Making more game playable 3D Unity version of Game.
+Fix 2d Game for better game play.
+
+
+
+Make videos, of games and then vieo mix of all project.
+More posts and Store on cloud all materials of project.
+Release post with links, Post models and other materials for free
+to assets websites.
+
+...continue to work on main projects
+and searching for ways to support them and find audience.
+
+
+Filling menu with info.
+Creating story line demonstration and Gameplay explanation.
+Making more game playable Unity version of Game.
+
+Compeleting this text.
+Fix 2d Game for better game play.
+
+Make videos, of games and then vieo mix of all project.
+More posts and Store on cloud all materials of project.
+Release post with links, Post models and other materials for free
+to assets websites.
+
+...continue to work on main projects
+and searching for ways to support them and find audience.
+
+
+
+
+COMPLETED
+
+
+
+
+
+Sliders used hours of time. 
+ 
+ 
+
+
+additional features 
+=HUG stealth,
+=HUG when they wine about not having support
+=Gain more score if catch them unprepared being cloack-unseen
+=To  HUG need to reveal self
+=HUG targets run and hide
+=Collect and HUG more then One
+=Lure HUGtargets
+=Horrible HUG, Friendly-DEADLY HUG
+=Bonuses, Achivments, Abilities
+=HUGtargets HUG BACK
+=HUGtargets safe in groups, have to wait and find ways
+=Follow and support HUGtarget till it's in your claws.
+==HUGtargets starts to SUPPORT each other regain health and save victims
+==HUGtargets hunt Wolverine
+===Wolverine lose health without HUGs 
+===Wolverine can turn HUGtarget into another Wolverine.
+===HUGtargets can turn Wolverines into HUGtargets
+===Army of HUGtargets against army of Wolverines
+===Play for any of teams.
+===HUGtargets can gain enogh SUPPORT and be UnHUGable anymore
+trying to hug them will be deadly.
+===Fake HUGtargets to trap Wolverines
+
+
+Haven't slept, haven't ate and lose focus for all the time
+ACTUALY:
+haven't ate anything      - all these days, 
+drank water while renders - 3 times, 
+slept ones while render   - from 6am till 10am at first day.
+visited bathroom          - 3 times in renders.
+Versions of project files - 81+ >.
+Failed renders            - 30+ > (estimated).
+Wonder off out of work    - none times.
+--Had to check render files while rendering proces, render parts, 
+were bugs and unexpected results, had to check every frame of render process 
+to save time and stop bad renders)
+
+!!!ENORMOUSLY GRATEFUL to ALL DEVS!!!
+and USERS who ask and share tips
+
+MADE VIDEO using:
+LayerPaint Android 4
+GIMP 2.8
+IrfanView 4.54
+Inkscape 0.92
+OpenToonz 1.1.3-morevna
+Shotcut 20.06.28
+Opera 89.0.4447
+LMMS 0.4.11
+KMPlayer 3.0.0.1439 
+(other players can't render FullHD at all on his machine, KMP sound out of sync and video 2 times slower)
+Virtualdub(synced sound but lags video and sound) 
+Avidemux 2.7.4.5 (lugs but close to KMP result while able to previe even 4k.)
+AkelaPad 4.9.8
+Win 10 x86
+THANK YOU LeX_600!!!
+Lenovo ideapad s10-2
+(dead line of pixels, screen size unable to see full program window,
+no OpenGL, x86 arhitecture only, Can't watch FullHD,
+cooling problems, but handeld to work in such cruel use scenarios,
+awfull perfomence for such tasks, but been able to push through, )
+
+
+Netbook couldn't render boxblur - had to settle for low pass, qmlt just died on render start.
+Wich lead to searching what breaks project render.
+ 
+Render problems, Preview too slow couldn't figure out Actual spead of effects, 
+Faild to render full, had to render to img sequence,
+then render by parts, then by layers with, without effects,
+then full together but by parts. And final render.
+ 
+
+Last Complete render finished on 7:37 of third day, cleaning work till 8:30 
+going to sleep now.
+
+-WAKE UP 10:30
+work on post
+ 
+WANT TO WORK AND COMPLETE MORE PROJECTS!!!
+ 
+-----------------------------------------------------
+
+
+
+-COMPLETED
+
+-----------------------------------------------------
+
+Shorts films
+REBIRTH/DEATH stopotion film
+https://www.youtube.com/watch?v=9pL6VbCmCV0
+https://x-p.boards.net/thread/29/rebirth-death-reach-out-project
+REBIRTH/DEATH audiobook
+https://www.youtube.com/watch?v=03ND3otLbKI
+VERSION(iron cataclysm)
+https://www.youtube.com/watch?v=quDq5D05E80
+Sunny girl Gonna, Leave
+https://www.youtube.com/watch?v=3ThlncSRPl8
+talk Bot to bot
+https://www.youtube.com/watch?v=uG35v8nIl9Y
+NO
+https://www.youtube.com/channel/UCTHQjkGqFcE77_kRXTtWSrg/videos
+At First Sight
+https://www.youtube.com/watch?v=v-zoBivHPMQ
+
+VFX:
+VFX Test Footage
+https://www.youtube.com/watch?v=fLtzQ8dIpLg
+DeMOTH
+https://www.youtube.com/watch?v=BQ0kFCbyAgQ
+onion fly
+https://www.youtube.com/watch?v=LuTSgrtaXDk
+Old woks compilation
+https://www.youtube.com/watch?v=nrMrh4XncdI
+
+
+Animations:
+Paperman
+https://www.youtube.com/watch?v=o366IMbx92k
+Animation about weekend
+https://www.youtube.com/watch?v=EXjzCGCHdhw
+3/4 joke
+https://www.youtube.com/watch?v=ZeRHzmj7twE
+Evil Masked
+https://www.youtube.com/watch?v=Y1UBJnEPZTc
+Gone in the equation - First Performance of Strange music-band
+https://www.youtube.com/watch?v=tmm9bG4bnVs
+No WAR// Ukraine// Come to UA save PEACE
+https://www.youtube.com/watch?v=elelpDC6f7U
+
+
+Catoon:
+INTENT
+https://www.youtube.com/watch?v=uSA5d7ey30o
+Power of Action. social project
+https://www.youtube.com/watch?v=EOmrfUhsa5k
+Merry Christmas
+https://www.youtube.com/watch?v=9TP1B6xJWr4
+Among I
+https://www.youtube.com/watch?v=8rFTvTw_36g
+
+
+Music  songs:
+X-POWER - I'll never regret it
+https://www.jamendo.com/track/1524775/i-ll-never-regret-it?language=en
+UNDER_SIGHT - Morning storm
+https://www.youtube.com/watch?v=f2ExGrfy0wU
+X-POWER - You'll lost
+https://www.jamendo.com/track/1509045/you-ll-lost
+UNDER_SIGHT - Nothing
+https://www.youtube.com/watch?v=mmc4Y0_3-xE
+X-POWER - understand anything
+https://www.jamendo.com/track/1509046/understand-anything
+UNDER_SIGHT - Why
+https://www.youtube.com/watch?v=UOo8uy7Z6Zo
+Test SUBJECT ambient music
+https://www.youtube.com/watch?v=20WAQx_GIcE
+
+
+Machinima:
+CYber door trouble
+https://www.youtube.com/watch?v=U-ds3uojd7s
+Warmrider
+https://www.youtube.com/watch?v=l5763y4YkgI
+Long Night gmod
+https://www.youtube.com/watch?v=xmf_K3GQesk
+DEADPOOL ARKHAM CITY MACHINIMA
+https://drive.google.com/file/d/1FKRNFwFL9damUKgL0r_psbf8BXLvaurM/view
+https://x-p.boards.net/post/373/thread
+BaD Account gmod
+https://www.youtube.com/watch?v=t8YRYOkAUHM
+
+
+Crafts:
+old wooden puppet
+https://www.youtube.com/watch?v=RI7Is4e2R7g
+Masks
+https://www.youtube.com/watch?v=QiBOG-TFdQA
+FLAmingo
+https://www.youtube.com/watch?v=xcemZnPgT1k
+
+
+
+
+-----------------------------------------------------
+-inPRoGRESS
+-----------------------------------------------------
+(stop motion, short film) - 
+DarkPark -
+(--finished shoot)
+Story of girl walked into pleasent park and end up in dangerous place with
+monsters, where she should fight for her life to survive. Against all odds. 
+
+(stop motion film)
+H3S7 -
+misterious detective story of unsolved, unindentified identified victem case on 
+human colonised planet, where all gone throug catologization process, 
+after catastrophy, and now everyone tracked each moment of life.
+Tough female detective takes the cold case and will discover even more misterys,
+solving this puzzle.
+
+(text, audio, video, storytelling series, game novels, comics(maybe))
+FS - 
+https://x-p.boards.net/thread/6/fs-gta4-future-mod
+
+-started as mod idea.
+Future stories of charctare living In Cyberpunk future,
+Where Earth turned to place of unlegal alien trafikin.
+And world changes evey moment, with new and dangerous stuff.
+--Not Dying prequel.
+
+(book, game, cartoon, comics)
+7Not Dying -
+Post cyberpunk world, where Earth is one of the most major data analyzing centers 
+of close galaxyes, striving to keep human race from extintion.
+While new catastophy erouse preaching extinsion of all creatues.
+Plain Joe ends up in center of universal conflict, and end up betrayde by 
+goverment of home planet, sold like a lamb for sacrifice to advanced alien forms
+turned into barbaians facing end of the world.
+
+2(software)
+VLchar - 
+https://x-p.boards.net/board/13/projects
+software to upload own character and play in Your created world concept image, 
+shoot generic automated animation with it and Share with othes.
+
+6 ATTT -
+https://x-p.boards.net/thread/86/attt-thirdperson-acting-enviroment-game
+thirdperson acting enviroment, atmosphere, concept recreational game
+with open world and ability to mod.
+
+5 DPS  -
+2d detective storys game platformer.
+
+4(GAME)
+REBIRTH/DEATH 2d and 3D games - 
+https://x-p.boards.net/thread/101/rebirth-death-games-2d-3d
+play main character and follow storyline of REBITH/DEATH audiobook.
+
+5(toy design, cartoon series, blocbuster, 3d animation, stop motion)
+sqrBOXED -
+few diffeen realities plain, magic, urban, future.
+Characters made of paper strives to live their nomal life, BUT
+when one uncovers trueth of their existense, they can't continue as it was before.
+
+3(cartoon series, sitcom, show, fun)
+Light Tones -
+Two friends(cartoon characters) share house in urban cartoon world, living human like life,
+Always finding ways to demonstrate their uniq atitude, and express them selfs.
+Ending in funy and relaxing chuckle story lines.
+
+8(cartoon series)
+TH3girl -
+Video blog of headless, zombie girl...
+
+9(character,comics, series)
+GRAIN -
+https://x-p.boards.net/thread/99/grain
+Character, Mystic creature or action, movement to gain REAL(productive) 
+answers to meaningful, disturbing,  questions of sense and get out of grain 
+to reach REAL LIFE, OWN control, Strong Identity, Understanding of systems, 
+Acknowledging true CORE, Discovering/uncovering substance(matter), 
+true meaning of things, actions, ways, PURE TRUTH, CLEAR VIEW on right and 
+wrong,  TRUE feelings, break endless play - GAME OF LIFE.
+---------------------------
+
+THANKS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! for checking HAVE A GREAT TIME! Be Well.

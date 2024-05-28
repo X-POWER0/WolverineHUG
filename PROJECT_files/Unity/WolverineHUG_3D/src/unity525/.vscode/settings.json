@@ -1,0 +1,68 @@
+{
+    "files.exclude":
+    {
+        "**/.DS_Store":true,
+        "**/.git":true,
+        "**/.gitignore":true,
+        "**/.gitmodules":true,
+        "**/*.booproj":true,
+        "**/*.pidb":true,
+        "**/*.suo":true,
+        "**/*.user":true,
+        "**/*.userprefs":true,
+        "**/*.unityproj":true,
+        "**/*.dll":true,
+        "**/*.exe":true,
+        "**/*.pdf":true,
+        "**/*.mid":true,
+        "**/*.midi":true,
+        "**/*.wav":true,
+        "**/*.gif":true,
+        "**/*.ico":true,
+        "**/*.jpg":true,
+        "**/*.jpeg":true,
+        "**/*.png":true,
+        "**/*.psd":true,
+        "**/*.tga":true,
+        "**/*.tif":true,
+        "**/*.tiff":true,
+        "**/*.3ds":true,
+        "**/*.3DS":true,
+        "**/*.fbx":true,
+        "**/*.FBX":true,
+        "**/*.lxo":true,
+        "**/*.LXO":true,
+        "**/*.ma":true,
+        "**/*.MA":true,
+        "**/*.obj":true,
+        "**/*.OBJ":true,
+        "**/*.asset":true,
+        "**/*.cubemap":true,
+        "**/*.flare":true,
+        "**/*.mat":true,
+        "**/*.meta":true,
+        "**/*.prefab":true,
+        "**/*.unity":true,
+        "build/":true,
+        "Build/":true,
+        "Library/":true,
+        "library/":true,
+        "obj/":true,
+        "Obj/":true,
+        "ProjectSettings/":true,
+        "temp/":true,
+        "Temp/":true
+    },
+
+    "omnisharp.monoPath": "E:\\x-p\\WORK\\PROG\\MONO\\Mono\\bin",
+     "omnisharp.useGlobalMono": "mono",
+     
+
+"MSBuildSDKsPath" : "E:\\x-p\\WORK\\PROG\\NET\\SDK\\NetF471\\SDK\\v10.0A\\bin\\NETFX 4.7.1 Tools",
+        
+        "omnisharp.useModernNet": false,
+        "omnisharp.dotnetPath": "E:\\x-p\\WORK\\PROG\\NET\\Microsoft.NET\\SDK\\Net21_SDK_32bit",
+        "TargetFrameworkSDKToolsDirectory": "E:\\x-p\\WORK\\PROG\\NET\\SDK\\NetF471\\SDK\\v10.0A\\bin\\NETFX 4.7.1 Tools"
+        
+
+}

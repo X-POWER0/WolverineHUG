@@ -1,0 +1,49 @@
+TODO:
+
+change sprites.on respawn
+right placed ui texts
+Huger Follows with anim and justified collission - and speed change
+score shown on end of game
+Timer expandes. end timer functioning. bigger text on end of timer
+(timer or limite/or counting how long survived)
+on end of timer Bricks exploed
+when dying viniet, and darker
+on end WolvHuger img . "I gonna HUG YOU LST TIME.
+
+anim image near Scores ui (to breat life in interface.
+On left scrolling block of text with projects
+Button save Score Screen and Txt
+Flying some times block SUPORT
+Highscore system, save score to txt
+When high score. img of Wolv = WELL DONE - Okey I'm not going to Hug You.
+add button Beat - just slight rotation anmation. And makes more velocity on BickS
+(for final interactivity and feel tha You destroying them)
+Add music, Few sound effects
+Text HUG TaRGET more IEABLE, More whiteS
+set Max brick position and minimum so he can't travel out of the box.
+Add word Hits count. score
+Add when words leave screen they Die
+fix(set collision, not from image), fix for Wolv, Player, Bricks
+Less Bricks
+Change fonts add ua ver)
+
+spawn random brick sprites
+
+
+on top textst scroling about projects in opacity box
+ in another halfh scorre with count of briks their life and game time.
+how many destroyed
+lifes of player and life of hugger.
+how many hugs was.
+
+links to support.
+
+
+time of time cutscence with hugger,
+and fallinng extream need of audience.
+
+scored time show
+
+change of bricks texture
+Wolv Following with anim, and anim on Hug
+Score for destruction of word bricks and their respawn

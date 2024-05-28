@@ -1,0 +1,19 @@
+{
+    "msbuild":
+    {
+"MSBuildExtensionsPath" : "E:\\x-p\\WORK\\PROG\\NET\\SDK\\NetF452\\Microsoft.NET\\Framework\\v4",
+"MSBuildSDKsPath" : "E:\\x-p\\WORK\\PROG\\NET\\SDK\\NetF471\\SDK\\v10.0A\\bin\\NETFX 4.7.1 Tools",
+"CscToolPath": "E:\\x-p\\WORK\\PROG\\NET\\SDK\\NetF452\\Microsoft.NET\\Framework\\v4",
+"CscToolExe": "E:\\x-p\\WORK\\PROG\\NET\\SDK\\NetF452\\Microsoft.NET\\Framework\\v4\\csc.exe"
+           },
+
+
+
+    "sdk":
+    {
+"path" : "E:\\x-p\\WORK\\PROG\\NET\\SDK\\NetF471\\SDK\\v10.0A\\bin\\NETFX 4.7.1 Tools",
+"version" : "4.7.1"
+           }
+
+
+}

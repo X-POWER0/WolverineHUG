@@ -1,3 +1,21 @@
+[--------------------------------------------------]
+All art, code of THIS project That belongs to x-p 
+(EXCEPT previwe images and logos of other projects demonstrated in it)  
+LICENCED under The Unlicense
+
+-- All materials that x-p don't have exclusive rights to destribute 
+LICENCED under Licences specified by authors, contributors 
+all rights belong to them.
+ (We GRATEFUL for their work and chance to use their materials)
+
+We add These materials here for convinience and ease of  project build/use.
+!!IF ANY AUTHOR DECIDES THAT IT'S INAPPROPRIATE!!
+please raise issue and We will delete materials and replace with links to specific repo/site/arhive
+--------------------------------------------
+later We will add more info and describe all specifics We assume needed.
+[---------------------------------------------------]
+
+
 # WolverineHUG
 Multi form Media project MESSAGE image, animation, video, comics, music, game
 making by X-POWER To reach Audience, draw viewers and interest to own projects
