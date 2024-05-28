@@ -303,4 +303,5 @@ Acknowledging true CORE, Discovering/uncovering substance(matter), <br>
 true meaning of things, actions, ways, PURE TRUTH, CLEAR VIEW on right and <br>
 wrong,  TRUE feelings, break endless play - GAME OF LIFE. <br>
 ---------------------------------------------------------------------------
- 
+
+ THANK YOU FOR READING and HAVE A GRREAT TIME!
